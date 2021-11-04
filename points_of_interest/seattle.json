@@ -1,0 +1,5977 @@
+{
+  "31096103": {
+    "name": "Gasworks Memorial Sundial",
+    "lat": 47.6453181,
+    "lon": -122.3363676
+  },
+  "298291905": {
+    "name": "Ferdinand Street Boat Launch",
+    "lat": 47.5573373,
+    "lon": -122.261514
+  },
+  "356549619": {
+    "name": "Leif Erikson Statue",
+    "lat": 47.6798526,
+    "lon": -122.4059481
+  },
+  "356550191": {
+    "name": "Klondike Gold Rush National Historical Park",
+    "lat": 47.599381,
+    "lon": -122.331864
+  },
+  "431725244": {
+    "name": "Gyrojack",
+    "lat": 47.6145426,
+    "lon": -122.3447825
+  },
+  "432763100": {
+    "name": "Admiral Way Viewpoint",
+    "lat": 47.5806995,
+    "lon": -122.376776
+  },
+  "457772980": {
+    "name": "Magnolia Gateway",
+    "lat": 47.6406144,
+    "lon": -122.39973
+  },
+  "458642877": {
+    "name": "Ella Bailey Overlook",
+    "lat": 47.6402026,
+    "lon": -122.3907097
+  },
+  "544331649": {
+    "name": "Elliott Bay Overlook",
+    "lat": 47.6315253,
+    "lon": -122.3957251
+  },
+  "638867974": {
+    "name": "Atlantic City Boat Ramp",
+    "lat": 47.5229163,
+    "lon": -122.2631829
+  },
+  "638868052": {
+    "name": "Adams Street Boat Ramp",
+    "lat": 47.5654177,
+    "lon": -122.267115
+  },
+  "693337509": {
+    "name": "Kerry Park",
+    "lat": 47.6294074,
+    "lon": -122.3599259
+  },
+  "693337510": {
+    "name": "Changing Form",
+    "lat": 47.6294772,
+    "lon": -122.3599359
+  },
+  "754182049": {
+    "name": "Rotary Viewpoint",
+    "lat": 47.560967,
+    "lon": -122.375682
+  },
+  "772402830": {
+    "name": "Black Sun",
+    "lat": 47.6299452,
+    "lon": -122.315202
+  },
+  "825301150": {
+    "name": "Underground Tour",
+    "lat": 47.6023507,
+    "lon": -122.333723
+  },
+  "927614360": {
+    "name": "Little Liberty",
+    "lat": 47.5793759,
+    "lon": -122.4106317
+  },
+  "937416412": {
+    "name": "A/NT Gallery",
+    "lat": 47.6227643,
+    "lon": -122.352986
+  },
+  "1112621242": {
+    "name": "James J. Hill Bust",
+    "lat": 47.652814,
+    "lon": -122.3054094
+  },
+  "1237943012": {
+    "name": "Lookout Bench",
+    "lat": 47.6597206,
+    "lon": -122.4286843
+  },
+  "1237958085": {
+    "name": "Birds Nest 1",
+    "lat": 47.6570126,
+    "lon": -122.4219436
+  },
+  "1237958883": {
+    "name": "Birds Nest 2",
+    "lat": 47.6569655,
+    "lon": -122.4216865
+  },
+  "1237960512": {
+    "name": "Lawton Point",
+    "lat": 47.656408,
+    "lon": -122.4205355
+  },
+  "1293552405": {
+    "name": "Sri Chinmoy Statue",
+    "lat": 47.6475331,
+    "lon": -122.3478261
+  },
+  "1300368348": {
+    "name": "Late for the Interurban",
+    "lat": 47.6493188,
+    "lon": -122.3486621
+  },
+  "1300908709": {
+    "name": "Lenin",
+    "lat": 47.6513599,
+    "lon": -122.3509471
+  },
+  "1322649036": {
+    "name": "Waiting for the Interurban",
+    "lat": 47.6494562,
+    "lon": -122.3494782
+  },
+  "1383843759": {
+    "name": "Straight Shot",
+    "lat": 47.6832777,
+    "lon": -122.2546103
+  },
+  "1692547404": {
+    "name": "Gates",
+    "lat": 47.6402129,
+    "lon": -122.2944272
+  },
+  "1724758561": {
+    "name": "East Portal View",
+    "lat": 47.5904234,
+    "lon": -122.2889593
+  },
+  "1726088109": {
+    "name": "Waterworks",
+    "lat": 47.6180942,
+    "lon": -122.3194957
+  },
+  "1730821899": {
+    "name": "1906 Kobe Sister City Monument",
+    "lat": 47.5825827,
+    "lon": -122.2879832
+  },
+  "1772095181": {
+    "name": "Center of the Universe sign",
+    "lat": 47.6504853,
+    "lon": -122.350046
+  },
+  "1809238334": {
+    "name": "Seattle Great Wheel",
+    "lat": 47.6061778,
+    "lon": -122.342564
+  },
+  "1851741441": {
+    "name": "Seattle Art Museum",
+    "lat": 47.6077008,
+    "lon": -122.3385575
+  },
+  "1855132272": {
+    "name": "Fremont Rocket",
+    "lat": 47.6506264,
+    "lon": -122.351184
+  },
+  "2030494946": {
+    "name": "Komodo Dragon",
+    "lat": 47.6686471,
+    "lon": -122.3495147
+  },
+  "2030494947": {
+    "name": "Raven",
+    "lat": 47.6705589,
+    "lon": -122.3506353
+  },
+  "2035719672": {
+    "name": "Baby Elephant",
+    "lat": 47.6690251,
+    "lon": -122.3484148
+  },
+  "2035719673": {
+    "name": "Lion",
+    "lat": 47.6682881,
+    "lon": -122.3492915
+  },
+  "2035719674": {
+    "name": "Lion",
+    "lat": 47.6683854,
+    "lon": -122.3493759
+  },
+  "2035719675": {
+    "name": "Silverback Gorilla",
+    "lat": 47.6681656,
+    "lon": -122.3512176
+  },
+  "2158761201": {
+    "name": "Vermillion",
+    "lat": 47.6144208,
+    "lon": -122.3179514
+  },
+  "2159323089": {
+    "name": "Creatura House Gallery",
+    "lat": 47.6139448,
+    "lon": -122.3230352
+  },
+  "2160388371": {
+    "name": "Mystery Coke Machine",
+    "lat": 47.620001,
+    "lon": -122.3199008
+  },
+  "2374136274": {
+    "name": "C Art Gallery",
+    "lat": 47.5945118,
+    "lon": -122.3093897
+  },
+  "2397460936": {
+    "name": "brooke westlund",
+    "lat": 47.6088289,
+    "lon": -122.3413863
+  },
+  "2397460939": {
+    "name": "Alex Achavel",
+    "lat": 47.6088542,
+    "lon": -122.3414013
+  },
+  "2400948772": {
+    "name": "Bill & Melinda Gates Foundation Visitor Center",
+    "lat": 47.6227967,
+    "lon": -122.3472514
+  },
+  "2420103609": {
+    "name": "Greenwood Arts Collective",
+    "lat": 47.6916588,
+    "lon": -122.3555465
+  },
+  "2443738130": {
+    "name": "Gum Wall",
+    "lat": 47.6081232,
+    "lon": -122.3401555
+  },
+  "2464040322": {
+    "name": "Factor Art & Gallery",
+    "lat": 47.6692016,
+    "lon": -122.3132539
+  },
+  "2485251324": {
+    "name": "Fremont Troll",
+    "lat": 47.6510483,
+    "lon": -122.3472348
+  },
+  "2491505938": {
+    "name": "Compass Rose",
+    "lat": 47.6816683,
+    "lon": -122.2583716
+  },
+  "2494550791": {
+    "name": "Seattle Children's Museum",
+    "lat": 47.621462,
+    "lon": -122.3509886
+  },
+  "2561809364": {
+    "name": "Chief Seattle",
+    "lat": 47.6182844,
+    "lon": -122.3474808
+  },
+  "2561809369": {
+    "name": "Discovery Portal",
+    "lat": 47.6159388,
+    "lon": -122.3346524
+  },
+  "2602495146": {
+    "name": "Undercurrents",
+    "lat": 47.6184907,
+    "lon": -122.3603238
+  },
+  "2625086518": {
+    "name": "Dinosaur Topiary",
+    "lat": 47.6504586,
+    "lon": -122.3547962
+  },
+  "2672133030": {
+    "name": "Stronghold",
+    "lat": 47.6523267,
+    "lon": -122.3122347
+  },
+  "2672133037": {
+    "name": "Everything That Rises",
+    "lat": 47.653361,
+    "lon": -122.3108784
+  },
+  "2672133045": {
+    "name": "George Washington",
+    "lat": 47.6560625,
+    "lon": -122.3111513
+  },
+  "2672133049": {
+    "name": "9 Spaces 9 Trees",
+    "lat": 47.6564491,
+    "lon": -122.311095
+  },
+  "2673276461": {
+    "name": "PLUMA",
+    "lat": 47.6605587,
+    "lon": -122.309903
+  },
+  "2673276466": {
+    "name": "Department of Forensic Morphology Annex",
+    "lat": 47.6585913,
+    "lon": -122.310351
+  },
+  "2677761014": {
+    "name": "Dancer with Flat Hat",
+    "lat": 47.6563301,
+    "lon": -122.3124039
+  },
+  "2677761043": {
+    "name": "Broken Obelisk",
+    "lat": 47.6560898,
+    "lon": -122.3090545
+  },
+  "2679399672": {
+    "name": "The Wall of Death",
+    "lat": 47.6551982,
+    "lon": -122.3185405
+  },
+  "2680905859": {
+    "name": "Sadako and the Thousand Paper Cranes",
+    "lat": 47.6556105,
+    "lon": -122.3186719
+  },
+  "2681174297": {
+    "name": "Sanctum",
+    "lat": 47.6558386,
+    "lon": -122.3116195
+  },
+  "2744017422": {
+    "name": "Ivar Feeding The Gulls",
+    "lat": 47.6038277,
+    "lon": -122.3387425
+  },
+  "2775496811": {
+    "name": "Sundial",
+    "lat": 47.6534371,
+    "lon": -122.3075351
+  },
+  "2867170764": {
+    "name": "Seattle Pinball Museum",
+    "lat": 47.5980084,
+    "lon": -122.3248559
+  },
+  "2922455632": {
+    "name": "28th Avenue West Viewpoint",
+    "lat": 47.6317641,
+    "lon": -122.3930556
+  },
+  "2936142197": {
+    "name": "Tobya Art Gallery",
+    "lat": 47.5769978,
+    "lon": -122.297421
+  },
+  "2939935801": {
+    "name": "The Electric Lady Studio Guitar",
+    "lat": 47.6155091,
+    "lon": -122.3206816
+  },
+  "2965374552": {
+    "name": "Wing Luke Asian Museum",
+    "lat": 47.5982461,
+    "lon": -122.3228705
+  },
+  "2984031634": {
+    "name": "MITT",
+    "lat": 47.5922178,
+    "lon": -122.3338061
+  },
+  "2984031635": {
+    "name": "The Tempest",
+    "lat": 47.5906503,
+    "lon": -122.333695
+  },
+  "2984031735": {
+    "name": "Dave Niehaus Statue",
+    "lat": 47.5917954,
+    "lon": -122.3314174
+  },
+  "2998927033": {
+    "name": "Seattle Fallen Fire Fighters' Memorial",
+    "lat": 47.6002023,
+    "lon": -122.3330105
+  },
+  "3003848513": {
+    "name": "Within Reach",
+    "lat": 47.6491784,
+    "lon": -122.3495132
+  },
+  "3006173065": {
+    "name": "Spooked in Seattle",
+    "lat": 47.6027458,
+    "lon": -122.3341239
+  },
+  "3007626088": {
+    "name": "Home Plate Entrance",
+    "lat": 47.5904796,
+    "lon": -122.3339078
+  },
+  "3007626089": {
+    "name": "Center Field Entrance",
+    "lat": 47.5922802,
+    "lon": -122.3310117
+  },
+  "3144711657": {
+    "name": "Atlantic City Boat Ramp",
+    "lat": 47.5228034,
+    "lon": -122.2631806
+  },
+  "3211765131": {
+    "name": "Electrical Abuse",
+    "lat": 47.506633,
+    "lon": -122.266067
+  },
+  "3211765132": {
+    "name": "Common Ground",
+    "lat": 47.518917,
+    "lon": -122.284567
+  },
+  "3211765133": {
+    "name": "Longfellow Creek Legacy Trail Way Finding Signs",
+    "lat": 47.5198141,
+    "lon": -122.3685184
+  },
+  "3211765134": {
+    "name": "Gravity Law",
+    "lat": 47.521383,
+    "lon": -122.2705
+  },
+  "3211765135": {
+    "name": "Memories",
+    "lat": 47.521483,
+    "lon": -122.270533
+  },
+  "3211765136": {
+    "name": "Pursuit of Knowledge",
+    "lat": 47.521533,
+    "lon": -122.270217
+  },
+  "3211765137": {
+    "name": "The Children",
+    "lat": 47.5216,
+    "lon": -122.271267
+  },
+  "3211765138": {
+    "name": "Mother Reading with Child",
+    "lat": 47.522567,
+    "lon": -122.376467
+  },
+  "3211765139": {
+    "name": "Homecoming",
+    "lat": 47.523467,
+    "lon": -122.393633
+  },
+  "3211765140": {
+    "name": "South Park Lights",
+    "lat": 47.526267,
+    "lon": -122.322817
+  },
+  "3211765141": {
+    "name": "JUMs",
+    "lat": 47.5276609,
+    "lon": -122.3689014
+  },
+  "3211765142": {
+    "name": "The Unified Playing Field Theory",
+    "lat": 47.528167,
+    "lon": -122.32305
+  },
+  "3211765143": {
+    "name": "American Youth and Freedom",
+    "lat": 47.530217,
+    "lon": -122.393317
+  },
+  "3211765144": {
+    "name": "Looking at a Watershed: Sanctuary Grove",
+    "lat": 47.5357097,
+    "lon": -122.3615355
+  },
+  "3211765145": {
+    "name": "Looking at a Watershed: Streambed Memories",
+    "lat": 47.5358108,
+    "lon": -122.3621553
+  },
+  "3211765146": {
+    "name": "Looking at a Watershed: Waterprints",
+    "lat": 47.5357863,
+    "lon": -122.3619192
+  },
+  "3211765147": {
+    "name": "Looking at a Watershed: Dream Forest",
+    "lat": 47.5359908,
+    "lon": -122.3614576
+  },
+  "3211765148": {
+    "name": "Salmon",
+    "lat": 47.5387,
+    "lon": -122.293317
+  },
+  "3211765149": {
+    "name": "Break Point",
+    "lat": 47.5408101,
+    "lon": -122.3749007
+  },
+  "3211765150": {
+    "name": "Highpoint",
+    "lat": 47.5407707,
+    "lon": -122.3749719
+  },
+  "3211765151": {
+    "name": "Sky Legends",
+    "lat": 47.548099,
+    "lon": -122.3760652
+  },
+  "3211765152": {
+    "name": "Untitled Stone Garden Lantern",
+    "lat": 47.54958,
+    "lon": -122.25732
+  },
+  "3211765153": {
+    "name": "Wit and Wisdom",
+    "lat": 47.551267,
+    "lon": -122.2779
+  },
+  "3211765154": {
+    "name": "The Forest Is Waiting",
+    "lat": 47.5530082,
+    "lon": -122.3631467
+  },
+  "3211765155": {
+    "name": "Story Viewers",
+    "lat": 47.5587,
+    "lon": -122.350783
+  },
+  "3211765156": {
+    "name": "Paragon",
+    "lat": 47.558867,
+    "lon": -122.3512
+  },
+  "3211765157": {
+    "name": "Geo-Slice",
+    "lat": 47.559067,
+    "lon": -122.350667
+  },
+  "3211765158": {
+    "name": "A Place Called Home",
+    "lat": 47.560033,
+    "lon": -122.2869
+  },
+  "3211765159": {
+    "name": "Spirit of Washington",
+    "lat": 47.5600199,
+    "lon": -122.2873766
+  },
+  "3211765160": {
+    "name": "Bottle Cap Children",
+    "lat": 47.5615035,
+    "lon": -122.2846047
+  },
+  "3211770061": {
+    "name": "Clock Tower",
+    "lat": 47.561543,
+    "lon": -122.2847261
+  },
+  "3211770062": {
+    "name": "Earth Story",
+    "lat": 47.5616,
+    "lon": -122.284633
+  },
+  "3211770063": {
+    "name": "Children's Screen",
+    "lat": 47.563367,
+    "lon": -122.364167
+  },
+  "3211770064": {
+    "name": "One Hundred and Twenty Ancestors",
+    "lat": 47.5634223,
+    "lon": -122.3641806
+  },
+  "3211770065": {
+    "name": "Framed Portraits",
+    "lat": 47.5634005,
+    "lon": -122.3641274
+  },
+  "3211770066": {
+    "name": "Trophies",
+    "lat": 47.5634076,
+    "lon": -122.3642289
+  },
+  "3211770067": {
+    "name": "The Unity and Oneness of all",
+    "lat": 47.5635772,
+    "lon": -122.2859865
+  },
+  "3211770068": {
+    "name": "Geomantic Artwork",
+    "lat": 47.563567,
+    "lon": -122.3645
+  },
+  "3211770069": {
+    "name": "Tribal Names",
+    "lat": 47.563617,
+    "lon": -122.3645
+  },
+  "3211770070": {
+    "name": "Dragonfly Pavilion and Garden",
+    "lat": 47.5666194,
+    "lon": -122.367743
+  },
+  "3211770071": {
+    "name": "Sherwood Gillespie",
+    "lat": 47.567017,
+    "lon": -122.3074
+  },
+  "3211770072": {
+    "name": "Periscope Tree",
+    "lat": 47.569783,
+    "lon": -122.2863
+  },
+  "3211770073": {
+    "name": "Plynth and Pylon from the Project Vista",
+    "lat": 47.570733,
+    "lon": -122.307967
+  },
+  "3211770074": {
+    "name": "Seattle Scatter Piece",
+    "lat": 47.5711,
+    "lon": -122.312533
+  },
+  "3211770075": {
+    "name": "Hydro Roots from the project Vista",
+    "lat": 47.571517,
+    "lon": -122.308267
+  },
+  "3211770076": {
+    "name": "Tidal Wave Story",
+    "lat": 47.5718073,
+    "lon": -122.3085342
+  },
+  "3211770077": {
+    "name": "Beacon Hill Discovery",
+    "lat": 47.5778249,
+    "lon": -122.3112948
+  },
+  "3211770078": {
+    "name": "Whale's Tail",
+    "lat": 47.5793464,
+    "lon": -122.4071669
+  },
+  "3211770080": {
+    "name": "Bronze Plaques and Medallion",
+    "lat": 47.579817,
+    "lon": -122.40975
+  },
+  "3211770081": {
+    "name": "Garden Path",
+    "lat": 47.581717,
+    "lon": -122.288167
+  },
+  "3211770082": {
+    "name": "Bronze Imbeds",
+    "lat": 47.5821296,
+    "lon": -122.4035472
+  },
+  "3211770083": {
+    "name": "Pavers",
+    "lat": 47.5821609,
+    "lon": -122.4035381
+  },
+  "3211770084": {
+    "name": "Alki / Duwamish Culture Trail",
+    "lat": 47.5821724,
+    "lon": -122.4034636
+  },
+  "3211770085": {
+    "name": "Copper",
+    "lat": 47.5822,
+    "lon": -122.3236
+  },
+  "3211770086": {
+    "name": "Japanese Lantern",
+    "lat": 47.5825,
+    "lon": -122.28795
+  },
+  "3211770087": {
+    "name": "Martin Luther King Jr. Memorial",
+    "lat": 47.5829754,
+    "lon": -122.29731
+  },
+  "3211770088": {
+    "name": "I-90 Portal",
+    "lat": 47.5905051,
+    "lon": -122.2885854
+  },
+  "3211770089": {
+    "name": "Dr. Jose P. Rizal",
+    "lat": 47.5918112,
+    "lon": -122.3175323
+  },
+  "3211770090": {
+    "name": "East is West",
+    "lat": 47.5921448,
+    "lon": -122.3175682
+  },
+  "3211770091": {
+    "name": "Equality",
+    "lat": 47.59405,
+    "lon": -122.314117
+  },
+  "3211770092": {
+    "name": "Inset-Anchor (Park) On Alki",
+    "lat": 47.595183,
+    "lon": -122.387467
+  },
+  "3211770093": {
+    "name": "Viewers",
+    "lat": 47.595333,
+    "lon": -122.386417
+  },
+  "3211770094": {
+    "name": "Wellspring",
+    "lat": 47.59615,
+    "lon": -122.322367
+  },
+  "3211770097": {
+    "name": "Untitled",
+    "lat": 47.598767,
+    "lon": -122.32525
+  },
+  "3211770098": {
+    "name": "Heaven, Man, Earth",
+    "lat": 47.5989986,
+    "lon": -122.3249776
+  },
+  "3211770099": {
+    "name": "4 (Where shall I go ahead?)",
+    "lat": 47.599317,
+    "lon": -122.330183
+  },
+  "3211770100": {
+    "name": "Sun and Raven (Totem)",
+    "lat": 47.600517,
+    "lon": -122.333133
+  },
+  "3211770101": {
+    "name": "Killer Whale (Totem)",
+    "lat": 47.600533,
+    "lon": -122.333117
+  },
+  "3211770102": {
+    "name": "Tsonqua (Totem)",
+    "lat": 47.600617,
+    "lon": -122.333383
+  },
+  "3211770103": {
+    "name": "Bear (Totem)",
+    "lat": 47.600733,
+    "lon": -122.33325
+  },
+  "3211770104": {
+    "name": "Anawog",
+    "lat": 47.601067,
+    "lon": -122.331617
+  },
+  "3211770105": {
+    "name": "Fortson Square",
+    "lat": 47.601117,
+    "lon": -122.3317
+  },
+  "3211770106": {
+    "name": "My Testimony in Stone",
+    "lat": 47.6014846,
+    "lon": -122.3044505
+  },
+  "3211770107": {
+    "name": "Tree Bench",
+    "lat": 47.601517,
+    "lon": -122.3071
+  },
+  "3211770108": {
+    "name": "Whirl Piece: Current Events",
+    "lat": 47.601517,
+    "lon": -122.32055
+  },
+  "3211770109": {
+    "name": "Children of the Sea",
+    "lat": 47.6019197,
+    "lon": -122.302048
+  },
+  "3211770111": {
+    "name": "Renouveau",
+    "lat": 47.601833,
+    "lon": -122.301767
+  },
+  "3211770112": {
+    "name": "Soul Pole",
+    "lat": 47.60185,
+    "lon": -122.302183
+  },
+  "3211770114": {
+    "name": "Day/Night",
+    "lat": 47.6019424,
+    "lon": -122.3338257
+  },
+  "3211770115": {
+    "name": "Chief Seattle Fountain",
+    "lat": 47.601963,
+    "lon": -122.3338552
+  },
+  "3211770116": {
+    "name": "Seattle Totem Pole",
+    "lat": 47.6020014,
+    "lon": -122.3340422
+  },
+  "3211770118": {
+    "name": "Evolving Wing and the Gravity of Presence",
+    "lat": 47.6037634,
+    "lon": -122.32988
+  },
+  "3211770120": {
+    "name": "Return",
+    "lat": 47.6037159,
+    "lon": -122.3297794
+  },
+  "3211770121": {
+    "name": "Blue Glass Passage",
+    "lat": 47.6037255,
+    "lon": -122.3300154
+  },
+  "3211770122": {
+    "name": "Continuum",
+    "lat": 47.6036689,
+    "lon": -122.3298776
+  },
+  "3211770124": {
+    "name": "illumine",
+    "lat": 47.603867,
+    "lon": -122.33055
+  },
+  "3211770125": {
+    "name": "Hatch Covers",
+    "lat": 47.6039,
+    "lon": -122.330833
+  },
+  "3211770126": {
+    "name": "Points of View",
+    "lat": 47.6040142,
+    "lon": -122.3291445
+  },
+  "3211770127": {
+    "name": "Wings",
+    "lat": 47.6040974,
+    "lon": -122.3290612
+  },
+  "3211770128": {
+    "name": "Witness and Dilemma, Levels, Weights and Measures",
+    "lat": 47.6040112,
+    "lon": -122.3290847
+  },
+  "3211770129": {
+    "name": "Justice is Served: Celebrating the People Who Work For a Change",
+    "lat": 47.6040818,
+    "lon": -122.3291874
+  },
+  "3211770131": {
+    "name": "Ornamental Iron in Leather/Contradictory Vibrations?",
+    "lat": 47.6039619,
+    "lon": -122.32909
+  },
+  "3211770133": {
+    "name": "Common Ground",
+    "lat": 47.6040485,
+    "lon": -122.3291588
+  },
+  "3211770134": {
+    "name": "Points of View",
+    "lat": 47.6039791,
+    "lon": -122.3291648
+  },
+  "3211770135": {
+    "name": "Codes & Protocol",
+    "lat": 47.60426,
+    "lon": -122.3294678
+  },
+  "3211770136": {
+    "name": "Codes & Protocol",
+    "lat": 47.6043943,
+    "lon": -122.329525
+  },
+  "3211770137": {
+    "name": "Listening",
+    "lat": 47.6041834,
+    "lon": -122.3292397
+  },
+  "3211770138": {
+    "name": "Codes & Protocol",
+    "lat": 47.6043787,
+    "lon": -122.3295815
+  },
+  "3211770139": {
+    "name": "Codes & Protocol",
+    "lat": 47.6042897,
+    "lon": -122.3293855
+  },
+  "3211770140": {
+    "name": "Transition",
+    "lat": 47.6049962,
+    "lon": -122.329758
+  },
+  "3211770141": {
+    "name": "Three Piece Sculpture #3: Vertebrae",
+    "lat": 47.6061866,
+    "lon": -122.3332822
+  },
+  "3211770142": {
+    "name": "Sculptural Screen",
+    "lat": 47.6065307,
+    "lon": -122.3330768
+  },
+  "3211770143": {
+    "name": "Untitled Mural",
+    "lat": 47.606122,
+    "lon": -122.3349906
+  },
+  "3211770145": {
+    "name": "Braincast",
+    "lat": 47.6067292,
+    "lon": -122.3330437
+  },
+  "3211770147": {
+    "name": "Babe, The Phoenix Fairy, and The Magic Grove",
+    "lat": 47.6065508,
+    "lon": -122.3328684
+  },
+  "3211770148": {
+    "name": "Astronomy by Day (and Other Oxymorons)",
+    "lat": 47.6067879,
+    "lon": -122.3323002
+  },
+  "3211770149": {
+    "name": "Making Visible the Invisible",
+    "lat": 47.6066518,
+    "lon": -122.3329757
+  },
+  "3211770150": {
+    "name": "Fountain of Wisdom",
+    "lat": 47.6063082,
+    "lon": -122.332823
+  },
+  "3211770152": {
+    "name": "Activity in Growth",
+    "lat": 47.6067388,
+    "lon": -122.3328636
+  },
+  "3211770153": {
+    "name": "Hammering Man",
+    "lat": 47.6070303,
+    "lon": -122.3381247
+  },
+  "3211770154": {
+    "name": "Waterway 15",
+    "lat": 47.6535286,
+    "lon": -122.3246133
+  },
+  "3211770156": {
+    "name": "Breaching Orca",
+    "lat": 47.607333,
+    "lon": -122.3421362
+  },
+  "3211770159": {
+    "name": "Seattle Garden",
+    "lat": 47.607433,
+    "lon": -122.339867
+  },
+  "3211770160": {
+    "name": "Shango Throne",
+    "lat": 47.607683,
+    "lon": -122.30215
+  },
+  "3211770161": {
+    "name": "Oshun Throne",
+    "lat": 47.60775,
+    "lon": -122.302383
+  },
+  "3211770162": {
+    "name": "Proverbs and Icons",
+    "lat": 47.6079,
+    "lon": -122.302267
+  },
+  "3211770163": {
+    "name": "Cornerstone",
+    "lat": 47.607967,
+    "lon": -122.329267
+  },
+  "3211770164": {
+    "name": "Kuba Grille",
+    "lat": 47.6077976,
+    "lon": -122.3022728
+  },
+  "3211770166": {
+    "name": "Skytones",
+    "lat": 47.6077759,
+    "lon": -122.3367532
+  },
+  "3211770167": {
+    "name": "Farmer's Pole",
+    "lat": 47.6099633,
+    "lon": -122.3438283
+  },
+  "3211770168": {
+    "name": "Untitled Fence",
+    "lat": 47.6100932,
+    "lon": -122.3440954
+  },
+  "3211770169": {
+    "name": "Untitled Totem Pole",
+    "lat": 47.6101451,
+    "lon": -122.3441304
+  },
+  "3211770170": {
+    "name": "Children's Art Tiles",
+    "lat": 47.6109,
+    "lon": -122.3369
+  },
+  "3211770171": {
+    "name": "Westlake Star Axis/Seven Hills",
+    "lat": 47.611167,
+    "lon": -122.3373
+  },
+  "3211770172": {
+    "name": "Angie's Umbrella",
+    "lat": 47.6113736,
+    "lon": -122.3451778
+  },
+  "3211770173": {
+    "name": "The Peaceable Kingdom",
+    "lat": 47.612783,
+    "lon": -122.290217
+  },
+  "3211770174": {
+    "name": "Governor John Harte Mcgraw",
+    "lat": 47.6129834,
+    "lon": -122.3375962
+  },
+  "3211770175": {
+    "name": "Wave, Rave, Cave",
+    "lat": 47.613033,
+    "lon": -122.347533
+  },
+  "3211770176": {
+    "name": "Three Dogs",
+    "lat": 47.614483,
+    "lon": -122.3449
+  },
+  "3211770178": {
+    "name": "Beckoning Cistern",
+    "lat": 47.61485,
+    "lon": -122.350133
+  },
+  "3211770179": {
+    "name": "Neighbors",
+    "lat": 47.615117,
+    "lon": -122.317017
+  },
+  "3211770180": {
+    "name": "Untitled (Kiosk)",
+    "lat": 47.615617,
+    "lon": -122.344583
+  },
+  "3211770181": {
+    "name": "Street Treatment",
+    "lat": 47.617967,
+    "lon": -122.354433
+  },
+  "3211770182": {
+    "name": "Waterfront Fountain",
+    "lat": 47.6071399,
+    "lon": -122.3420177
+  },
+  "3211770183": {
+    "name": "Second Avenue Additions",
+    "lat": 47.61805,
+    "lon": -122.35205
+  },
+  "3211770185": {
+    "name": "Dr. Mark A. Matthews",
+    "lat": 47.618667,
+    "lon": -122.341233
+  },
+  "3211770187": {
+    "name": "Olympic Iliad",
+    "lat": 47.6193785,
+    "lon": -122.3500573
+  },
+  "3211770189": {
+    "name": "Moon Gates",
+    "lat": 47.6200414,
+    "lon": -122.3489005
+  },
+  "3211770190": {
+    "name": "Neototems Children's Garden",
+    "lat": 47.6202225,
+    "lon": -122.3517177
+  },
+  "3211770191": {
+    "name": "Black Lightning",
+    "lat": 47.620429,
+    "lon": -122.3483563
+  },
+  "3211770192": {
+    "name": "Seattle Center Totem",
+    "lat": 47.6208282,
+    "lon": -122.3514141
+  },
+  "3211770193": {
+    "name": "Moses",
+    "lat": 47.6207713,
+    "lon": -122.3488772
+  },
+  "3211770194": {
+    "name": "Garthgoyles: Designs for the Charlotte Martin Theatre",
+    "lat": 47.62085,
+    "lon": -122.352117
+  },
+  "3211770195": {
+    "name": "Circus Ring Plaza",
+    "lat": 47.621,
+    "lon": -122.350883
+  },
+  "3211770196": {
+    "name": "Biography of a Branch",
+    "lat": 47.6212,
+    "lon": -122.351733
+  },
+  "3211770197": {
+    "name": "Twine and Branch",
+    "lat": 47.62135,
+    "lon": -122.352067
+  },
+  "3211770198": {
+    "name": "Lantern Gateway",
+    "lat": 47.6215345,
+    "lon": -122.3072103
+  },
+  "3211770199": {
+    "name": "Skyline Canopies",
+    "lat": 47.6216,
+    "lon": -122.30705
+  },
+  "3211770200": {
+    "name": "House Finial",
+    "lat": 47.6215719,
+    "lon": -122.3070067
+  },
+  "3211770201": {
+    "name": "Migrare",
+    "lat": 47.6211506,
+    "lon": -122.3513154
+  },
+  "3211770202": {
+    "name": "Untitled",
+    "lat": 47.621783,
+    "lon": -122.332383
+  },
+  "3211770203": {
+    "name": "The Itinerant",
+    "lat": 47.6220649,
+    "lon": -122.3206848
+  },
+  "3211770204": {
+    "name": "Human Forms in Balance",
+    "lat": 47.6220797,
+    "lon": -122.350947
+  },
+  "3211770205": {
+    "name": "Acrobat Constellation",
+    "lat": 47.622083,
+    "lon": -122.352833
+  },
+  "3211770208": {
+    "name": "Neototems",
+    "lat": 47.62235,
+    "lon": -122.35255
+  },
+  "3211770210": {
+    "name": "Fountain Of Creation",
+    "lat": 47.6229077,
+    "lon": -122.3537762
+  },
+  "3211770211": {
+    "name": "Dancer's Series: Steps",
+    "lat": 47.622967,
+    "lon": -122.320833
+  },
+  "3211770212": {
+    "name": "Pool",
+    "lat": 47.623067,
+    "lon": -122.352867
+  },
+  "3211770213": {
+    "name": "Contour",
+    "lat": 47.623083,
+    "lon": -122.322217
+  },
+  "3211770214": {
+    "name": "Fountain of Seseragi",
+    "lat": 47.62335,
+    "lon": -122.35247
+  },
+  "3211770216": {
+    "name": "Untitled",
+    "lat": 47.623567,
+    "lon": -122.35205
+  },
+  "3211770217": {
+    "name": "Encircled Stream",
+    "lat": 47.6238983,
+    "lon": -122.3520505
+  },
+  "3211770218": {
+    "name": "Dreaming in Color",
+    "lat": 47.623883,
+    "lon": -122.351133
+  },
+  "3211770219": {
+    "name": "Neon For The Bagley Wright Theatre",
+    "lat": 47.623892,
+    "lon": -122.3532554
+  },
+  "3211770220": {
+    "name": "The Lang Fountain",
+    "lat": 47.6241186,
+    "lon": -122.3521213
+  },
+  "3211770221": {
+    "name": "Barbet",
+    "lat": 47.62425,
+    "lon": -122.35233
+  },
+  "3211770222": {
+    "name": "An Equal And Opposite Reaction",
+    "lat": 47.624317,
+    "lon": -122.351117
+  },
+  "3211770223": {
+    "name": "Fountain Of The Northwest",
+    "lat": 47.6242817,
+    "lon": -122.3524167
+  },
+  "3211770224": {
+    "name": "Fu",
+    "lat": 47.624417,
+    "lon": -122.351467
+  },
+  "3211770225": {
+    "name": "Tulip Tree Mosaic",
+    "lat": 47.6268,
+    "lon": -122.311383
+  },
+  "3211770226": {
+    "name": "Judge Thomas Burke",
+    "lat": 47.629283,
+    "lon": -122.31525
+  },
+  "3211770228": {
+    "name": "Untitled",
+    "lat": 47.606636,
+    "lon": -122.3403553
+  },
+  "3211770230": {
+    "name": "Untitled Bird-Bath",
+    "lat": 47.6312,
+    "lon": -122.316733
+  },
+  "3211770231": {
+    "name": "DNA Wave Wall",
+    "lat": 47.631717,
+    "lon": -122.37745
+  },
+  "3211770232": {
+    "name": "William H. Seward",
+    "lat": 47.6318615,
+    "lon": -122.315724
+  },
+  "3211770233": {
+    "name": "Homage in Green",
+    "lat": 47.6320695,
+    "lon": -122.3157327
+  },
+  "3211770234": {
+    "name": "Cornerstones",
+    "lat": 47.6321164,
+    "lon": -122.3263432
+  },
+  "3211770235": {
+    "name": "Playform",
+    "lat": 47.632183,
+    "lon": -122.313233
+  },
+  "3211770236": {
+    "name": "Spur Line",
+    "lat": 47.6323,
+    "lon": -122.340533
+  },
+  "3211770237": {
+    "name": "Seattle Scatter Piece",
+    "lat": 47.632467,
+    "lon": -122.37565
+  },
+  "3211770238": {
+    "name": "Quintet in D",
+    "lat": 47.633894,
+    "lon": -122.3627462
+  },
+  "3211770239": {
+    "name": "Untitled Cor-Ten Steel Sculpture",
+    "lat": 47.634333,
+    "lon": -122.312333
+  },
+  "3211770240": {
+    "name": "McGilvra's Farm",
+    "lat": 47.635467,
+    "lon": -122.277917
+  },
+  "3211770241": {
+    "name": "Step on no Pets",
+    "lat": 47.638167,
+    "lon": -122.3766
+  },
+  "3211770242": {
+    "name": "Dreamboats",
+    "lat": 47.640183,
+    "lon": -122.325967
+  },
+  "3211770244": {
+    "name": "Skylight Aperture Sundial",
+    "lat": 47.64045,
+    "lon": -122.3024
+  },
+  "3211770245": {
+    "name": "Untitled",
+    "lat": 47.6452,
+    "lon": -122.4014
+  },
+  "3211770247": {
+    "name": "Untitled",
+    "lat": 47.645333,
+    "lon": -122.4016
+  },
+  "3211770248": {
+    "name": "Water Into Electricity (That Man May Use It Freely)",
+    "lat": 47.5426015,
+    "lon": -122.3160738
+  },
+  "3211770249": {
+    "name": "Story of North Island (Totem Pole)",
+    "lat": 47.6468994,
+    "lon": -122.3010576
+  },
+  "3211770251": {
+    "name": "Pergola At Waiting For The Interurban",
+    "lat": 47.6494628,
+    "lon": -122.3495143
+  },
+  "3211770252": {
+    "name": "Fremont Canal Bench Project",
+    "lat": 47.6498483,
+    "lon": -122.3536622
+  },
+  "3211770253": {
+    "name": "Water Weaving Light Cycle",
+    "lat": 47.6036045,
+    "lon": -122.3298759
+  },
+  "3211770254": {
+    "name": "Reality Relics",
+    "lat": 47.650133,
+    "lon": -122.348433
+  },
+  "3211770255": {
+    "name": "Ross Creek",
+    "lat": 47.652517,
+    "lon": -122.3594
+  },
+  "3211770257": {
+    "name": "The Stairway In Fremont Project",
+    "lat": 47.655417,
+    "lon": -122.350017
+  },
+  "3211770259": {
+    "name": "Ripple Sculptures",
+    "lat": 47.65745,
+    "lon": -122.406217
+  },
+  "3211770260": {
+    "name": "Strata Benches",
+    "lat": 47.657467,
+    "lon": -122.40645
+  },
+  "3211770261": {
+    "name": "Leaf Legend",
+    "lat": 47.6577706,
+    "lon": -122.4062867
+  },
+  "3211770262": {
+    "name": "Seattle Scatter Piece",
+    "lat": 47.659033,
+    "lon": -122.2776
+  },
+  "3211770263": {
+    "name": "SAMARA",
+    "lat": 47.659083,
+    "lon": -122.277617
+  },
+  "3211770265": {
+    "name": "Five Neons",
+    "lat": 47.661317,
+    "lon": -122.338783
+  },
+  "3211770266": {
+    "name": "Forms of Power",
+    "lat": 47.6615374,
+    "lon": -122.3647698
+  },
+  "3211770267": {
+    "name": "Ballard Sculpture Garden",
+    "lat": 47.6628102,
+    "lon": -122.3643408
+  },
+  "3211770268": {
+    "name": "Sasquatch Pushing over A House",
+    "lat": 47.6643136,
+    "lon": -122.3196738
+  },
+  "3211770269": {
+    "name": "Salmon Waves",
+    "lat": 47.664702,
+    "lon": -122.3975399
+  },
+  "3211770270": {
+    "name": "Meridian Archway",
+    "lat": 47.6648648,
+    "lon": -122.3335204
+  },
+  "3211770271": {
+    "name": "Ballard Gateway",
+    "lat": 47.664986,
+    "lon": -122.376136
+  },
+  "3211770272": {
+    "name": "Firefighter Silhouettes",
+    "lat": 47.6652724,
+    "lon": -122.3168411
+  },
+  "3211770274": {
+    "name": "Hiker Memorial Statue",
+    "lat": 47.665801,
+    "lon": -122.3530642
+  },
+  "3211770275": {
+    "name": "Untitled",
+    "lat": 47.666167,
+    "lon": -122.38285
+  },
+  "3211770276": {
+    "name": "Untitled",
+    "lat": 47.6663116,
+    "lon": -122.349302
+  },
+  "3211770277": {
+    "name": "Dwelling Places",
+    "lat": 47.666267,
+    "lon": -122.351017
+  },
+  "3211770278": {
+    "name": "Evidence of Domestication",
+    "lat": 47.666267,
+    "lon": -122.352133
+  },
+  "3211770279": {
+    "name": "Duets for Animals and People",
+    "lat": 47.666383,
+    "lon": -122.351983
+  },
+  "3211770280": {
+    "name": "The Bears",
+    "lat": 47.666633,
+    "lon": -122.35
+  },
+  "3211770281": {
+    "name": "Jimi Hendrix Memorial Viewpoint",
+    "lat": 47.667033,
+    "lon": -122.349267
+  },
+  "3211770282": {
+    "name": "Sundial",
+    "lat": 47.667267,
+    "lon": -122.2818
+  },
+  "3211770283": {
+    "name": "Duck Windvane",
+    "lat": 47.6673,
+    "lon": -122.2813
+  },
+  "3211770285": {
+    "name": "Coelacanths",
+    "lat": 47.6677,
+    "lon": -122.384633
+  },
+  "3211770286": {
+    "name": "Vagor I And Vagor II",
+    "lat": 47.6678,
+    "lon": -122.38475
+  },
+  "3211770287": {
+    "name": "Untitled",
+    "lat": 47.6680335,
+    "lon": -122.3853648
+  },
+  "3211770288": {
+    "name": "Witness Trees - What The Trees Have Seen",
+    "lat": 47.6684476,
+    "lon": -122.3844617
+  },
+  "3211770289": {
+    "name": "Untitled",
+    "lat": 47.6684147,
+    "lon": -122.3858457
+  },
+  "3211770290": {
+    "name": "Crocodile",
+    "lat": 47.6687488,
+    "lon": -122.3520619
+  },
+  "3211770291": {
+    "name": "Gila Monster Mural",
+    "lat": 47.668767,
+    "lon": -122.3520405
+  },
+  "3211770292": {
+    "name": "Untitled",
+    "lat": 47.6689,
+    "lon": -122.348133
+  },
+  "3211770294": {
+    "name": "Together as One",
+    "lat": 47.669467,
+    "lon": -122.349783
+  },
+  "3211770295": {
+    "name": ".01 - Weather Permitting .02 - Flow",
+    "lat": 47.669833,
+    "lon": -122.384583
+  },
+  "3211770296": {
+    "name": "Mesa",
+    "lat": 47.670483,
+    "lon": -122.3514
+  },
+  "3211770297": {
+    "name": "Morphauna",
+    "lat": 47.671267,
+    "lon": -122.3532
+  },
+  "3211770298": {
+    "name": "Stroke",
+    "lat": 47.671383,
+    "lon": -122.342717
+  },
+  "3211770299": {
+    "name": "World Flight Monument",
+    "lat": 47.6821273,
+    "lon": -122.2635253
+  },
+  "3211770300": {
+    "name": "Ballard Boat",
+    "lat": 47.6725994,
+    "lon": -122.39265
+  },
+  "3211770301": {
+    "name": "Playground Artwork",
+    "lat": 47.6767,
+    "lon": -122.30495
+  },
+  "3211770302": {
+    "name": "Playground",
+    "lat": 47.67675,
+    "lon": -122.30495
+  },
+  "3211770303": {
+    "name": "Luminaire",
+    "lat": 47.677967,
+    "lon": -122.290667
+  },
+  "3211770304": {
+    "name": "Portal",
+    "lat": 47.680317,
+    "lon": -122.328433
+  },
+  "3211770305": {
+    "name": "Seven Figures",
+    "lat": 47.680417,
+    "lon": -122.3281
+  },
+  "3211770306": {
+    "name": "Froula Park Armchairs",
+    "lat": 47.6805029,
+    "lon": -122.3149774
+  },
+  "3211770311": {
+    "name": "Signs of Life",
+    "lat": 47.6851,
+    "lon": -122.337583
+  },
+  "3211770312": {
+    "name": "Into the Green Wood",
+    "lat": 47.6875313,
+    "lon": -122.3550241
+  },
+  "3211770313": {
+    "name": "Gazebo",
+    "lat": 47.688967,
+    "lon": -122.31665
+  },
+  "3211770314": {
+    "name": "Garden of Color and Light",
+    "lat": 47.689133,
+    "lon": -122.317467
+  },
+  "3211770315": {
+    "name": "Atala Kivliktwok Okitun Dukik",
+    "lat": 47.690783,
+    "lon": -122.400833
+  },
+  "3211770316": {
+    "name": "Untitled Columns",
+    "lat": 47.695783,
+    "lon": -122.358367
+  },
+  "3211770317": {
+    "name": "Big Tesla",
+    "lat": 47.699733,
+    "lon": -122.341083
+  },
+  "3211770318": {
+    "name": "Conductive Paths",
+    "lat": 47.699833,
+    "lon": -122.34165
+  },
+  "3211770319": {
+    "name": "Light Bulb Bench",
+    "lat": 47.700383,
+    "lon": -122.341833
+  },
+  "3211770320": {
+    "name": "Cloud Stones",
+    "lat": 47.705567,
+    "lon": -122.336017
+  },
+  "3211770321": {
+    "name": "Reflective Refuge at Meadowbrook Pond",
+    "lat": 47.705633,
+    "lon": -122.288883
+  },
+  "3211770322": {
+    "name": "Weather Prophet",
+    "lat": 47.70575,
+    "lon": -122.291367
+  },
+  "3211770323": {
+    "name": "Fleet",
+    "lat": 47.705783,
+    "lon": -122.291367
+  },
+  "3211770324": {
+    "name": "Fish Children",
+    "lat": 47.70585,
+    "lon": -122.291333
+  },
+  "3211770325": {
+    "name": "In Transition is Unity",
+    "lat": 47.705883,
+    "lon": -122.322567
+  },
+  "3211770326": {
+    "name": "Schema",
+    "lat": 47.7059,
+    "lon": -122.291367
+  },
+  "3211770327": {
+    "name": "Circulation",
+    "lat": 47.7060295,
+    "lon": -122.3226648
+  },
+  "3211770328": {
+    "name": "Meadowbrook Pond Kiosk",
+    "lat": 47.70645,
+    "lon": -122.289283
+  },
+  "3211770329": {
+    "name": "The American Doughboy Bringing Home Victory",
+    "lat": 47.7096261,
+    "lon": -122.3429933
+  },
+  "3211770330": {
+    "name": "Lake City Gateway",
+    "lat": 47.71912,
+    "lon": -122.29557
+  },
+  "3211770331": {
+    "name": "Collections Objects, Experiences, Memories",
+    "lat": 47.7195315,
+    "lon": -122.2978916
+  },
+  "3211770332": {
+    "name": "Untitled",
+    "lat": 47.719561,
+    "lon": -122.297836
+  },
+  "3211770333": {
+    "name": "Memory Place",
+    "lat": 47.719633,
+    "lon": -122.341483
+  },
+  "3211770334": {
+    "name": "Imbrication",
+    "lat": 47.72015,
+    "lon": -122.298717
+  },
+  "3211770335": {
+    "name": "Untitled",
+    "lat": 47.722717,
+    "lon": -122.356083
+  },
+  "3211770336": {
+    "name": "Untitled Star Map Floor Inlay",
+    "lat": 47.724083,
+    "lon": -122.348533
+  },
+  "3211770337": {
+    "name": "Water Borne",
+    "lat": 47.724167,
+    "lon": -122.348633
+  },
+  "3211770338": {
+    "name": "Swimming Fish",
+    "lat": 47.724233,
+    "lon": -122.348633
+  },
+  "3211770339": {
+    "name": "Aureole",
+    "lat": 47.7243,
+    "lon": -122.348633
+  },
+  "3211770340": {
+    "name": "Whirr",
+    "lat": 47.724417,
+    "lon": -122.348483
+  },
+  "3211770341": {
+    "name": "Seattle Scatter Piece",
+    "lat": 47.7321318,
+    "lon": -122.3485964
+  },
+  "3211778626": {
+    "name": "Sand Dragon",
+    "lat": 47.5969896,
+    "lon": -122.3234275
+  },
+  "3211778865": {
+    "name": "112 Wristwatches",
+    "lat": 47.604124,
+    "lon": -122.3292195
+  },
+  "3211778882": {
+    "name": "Christopher Columbus",
+    "lat": 47.6066,
+    "lon": -122.341433
+  },
+  "3211778886": {
+    "name": "Marine-Life Paintings",
+    "lat": 47.6073239,
+    "lon": -122.3421956
+  },
+  "3211778888": {
+    "name": "Sea Otter, Salmon, And Raven",
+    "lat": 47.6073442,
+    "lon": -122.3421837
+  },
+  "3211778889": {
+    "name": "Beyond The Reef",
+    "lat": 47.6073485,
+    "lon": -122.3422384
+  },
+  "3211779104": {
+    "name": "Catfish",
+    "lat": 47.665717,
+    "lon": -122.38225
+  },
+  "3211779139": {
+    "name": "Homage to Hokusai",
+    "lat": 47.6814512,
+    "lon": -122.3267368
+  },
+  "3235115976": {
+    "name": "Student Entrance",
+    "lat": 47.6525184,
+    "lon": -122.3026613
+  },
+  "3371285714": {
+    "name": "Dewdrops",
+    "lat": 47.6479266,
+    "lon": -122.3365159
+  },
+  "3403448578": {
+    "name": "LEW Floor",
+    "lat": 47.6066927,
+    "lon": -122.3325955
+  },
+  "3413278212": {
+    "name": "Fish Ladder Viewing Gallery",
+    "lat": 47.6646617,
+    "lon": -122.3974596
+  },
+  "3468525549": {
+    "name": "I-5 Colonnade Off-Leash Area",
+    "lat": 47.6348256,
+    "lon": -122.3237465
+  },
+  "3503649443": {
+    "name": "Waterway 21 Viewpoint",
+    "lat": 47.6473465,
+    "lon": -122.3397606
+  },
+  "3537851537": {
+    "name": "The Mural at Bergen Place",
+    "lat": 47.668212,
+    "lon": -122.384443
+  },
+  "3552862609": {
+    "name": "Northwest Artists Salute Betty Bowen",
+    "lat": 47.6295349,
+    "lon": -122.3665921
+  },
+  "3559868719": {
+    "name": "Urban Garden",
+    "lat": 47.6106699,
+    "lon": -122.3326794
+  },
+  "3559896932": {
+    "name": "Rachel the Piggy Bank",
+    "lat": 47.6086279,
+    "lon": -122.3406064
+  },
+  "3581824093": {
+    "name": "August Wilson Memorial",
+    "lat": 47.6233304,
+    "lon": -122.3539486
+  },
+  "3629590794": {
+    "name": "New Archetypes",
+    "lat": 47.6070112,
+    "lon": -122.3365058
+  },
+  "3662141798": {
+    "name": "Bunyon's Chess",
+    "lat": 47.6168639,
+    "lon": -122.3565835
+  },
+  "3662141799": {
+    "name": "Eye Benches I, II, and III",
+    "lat": 47.6151462,
+    "lon": -122.3551124
+  },
+  "3662141802": {
+    "name": "Perre\u2019s Ventaglio III",
+    "lat": 47.6170128,
+    "lon": -122.355816
+  },
+  "3662141803": {
+    "name": "Persephone Unbound",
+    "lat": 47.6168989,
+    "lon": -122.3555113
+  },
+  "3662141805": {
+    "name": "Schubert Sonata",
+    "lat": 47.6157181,
+    "lon": -122.3563795
+  },
+  "3662141806": {
+    "name": "Seattle Cloud Cover",
+    "lat": 47.6156357,
+    "lon": -122.3554465
+  },
+  "3662141807": {
+    "name": "Sky Landscape I",
+    "lat": 47.6171329,
+    "lon": -122.3560828
+  },
+  "3662141808": {
+    "name": "Split",
+    "lat": 47.6160713,
+    "lon": -122.3540423
+  },
+  "3662141809": {
+    "name": "Stinger",
+    "lat": 47.6155744,
+    "lon": -122.3548273
+  },
+  "3662141811": {
+    "name": "The Eagle",
+    "lat": 47.6165885,
+    "lon": -122.3559772
+  },
+  "3662141812": {
+    "name": "Two Plane Vertical Horizontal Variation III",
+    "lat": 47.6167126,
+    "lon": -122.3550823
+  },
+  "3662141813": {
+    "name": "Typewriter Eraser, Scale X",
+    "lat": 47.6159494,
+    "lon": -122.3545078
+  },
+  "3662141814": {
+    "name": "Untitled",
+    "lat": 47.6163385,
+    "lon": -122.3558495
+  },
+  "3662141815": {
+    "name": "Wake",
+    "lat": 47.6171369,
+    "lon": -122.3555689
+  },
+  "3662141816": {
+    "name": "Wandering Rocks",
+    "lat": 47.6157736,
+    "lon": -122.35516
+  },
+  "3662383773": {
+    "name": "Father and Son",
+    "lat": 47.6150468,
+    "lon": -122.3551915
+  },
+  "3717445869": {
+    "name": "Suspended Moment",
+    "lat": 47.6694282,
+    "lon": -122.3494487
+  },
+  "3731463265": {
+    "name": "Sensei",
+    "lat": 47.5916186,
+    "lon": -122.3074112
+  },
+  "3774248160": {
+    "name": "Historic Carousel",
+    "lat": 47.6701583,
+    "lon": -122.3521552
+  },
+  "3825569858": {
+    "name": "Coming Home",
+    "lat": 47.6622657,
+    "lon": -122.2984592
+  },
+  "3830983958": {
+    "name": "Husky Spirit",
+    "lat": 47.6507108,
+    "lon": -122.3034115
+  },
+  "3957622063": {
+    "name": "Penny-Farthing Posters",
+    "lat": 47.6357897,
+    "lon": -122.3230325
+  },
+  "3957622064": {
+    "name": "Animals Riding Bikes Mural",
+    "lat": 47.6490994,
+    "lon": -122.3470153
+  },
+  "3957623026": {
+    "name": "PCC Dog on Bike",
+    "lat": 47.6498163,
+    "lon": -122.3506645
+  },
+  "3957623027": {
+    "name": "N 38th St Mural",
+    "lat": 47.6527062,
+    "lon": -122.3464654
+  },
+  "3957697645": {
+    "name": "Giraffe & Lion Riding Alligator Bike",
+    "lat": 47.6542335,
+    "lon": -122.3500893
+  },
+  "3957697647": {
+    "name": "Molly Moon's Wall Bike Rack",
+    "lat": 47.6614966,
+    "lon": -122.3380587
+  },
+  "3957697648": {
+    "name": "Sparky",
+    "lat": 47.66263,
+    "lon": -122.3165579
+  },
+  "3957762206": {
+    "name": "Counterbalance Bicycles Mural",
+    "lat": 47.6648148,
+    "lon": -122.29593
+  },
+  "3966801516": {
+    "name": "Ravens Bill Downspouts",
+    "lat": 47.5778496,
+    "lon": -122.3112472
+  },
+  "4031902189": {
+    "name": "Loo Wit",
+    "lat": 47.6086668,
+    "lon": -122.3180785
+  },
+  "4031957157": {
+    "name": "Chief Sealth",
+    "lat": 47.6104482,
+    "lon": -122.3205533
+  },
+  "4118274014": {
+    "name": "Sky View Observatory",
+    "lat": 47.6045392,
+    "lon": -122.3308714
+  },
+  "4147984989": {
+    "name": "Seattle Presents",
+    "lat": 47.6050663,
+    "lon": -122.3300364
+  },
+  "4217400413": {
+    "name": "Public Market Clock",
+    "lat": 47.6085383,
+    "lon": -122.3406591
+  },
+  "4217428597": {
+    "name": "Sanitary Market Building",
+    "lat": 47.6095107,
+    "lon": -122.3409804
+  },
+  "4238241210": {
+    "name": "\"Untitled\" Joel Shapiro",
+    "lat": 47.608969,
+    "lon": -122.318227
+  },
+  "4238317689": {
+    "name": "Justice (Just Ice)",
+    "lat": 47.608543,
+    "lon": -122.318765
+  },
+  "4239833986": {
+    "name": "Water Wall",
+    "lat": 47.6090375,
+    "lon": -122.3184595
+  },
+  "4330223344": {
+    "name": "Wallingford Sign",
+    "lat": 47.661663,
+    "lon": -122.3360373
+  },
+  "4336174232": {
+    "name": "Open Water Park",
+    "lat": 47.6299101,
+    "lon": -122.3859584
+  },
+  "4338782403": {
+    "name": "Space in Fremont",
+    "lat": 47.651587,
+    "lon": -122.3512196
+  },
+  "4343694775": {
+    "name": "Cloud Veil",
+    "lat": 47.6072639,
+    "lon": -122.3164867
+  },
+  "4346366056": {
+    "name": "Museum of History and Industry",
+    "lat": 47.6275114,
+    "lon": -122.3367506
+  },
+  "4401582483": {
+    "name": "Jim Owens Statue",
+    "lat": 47.651567,
+    "lon": -122.3028021
+  },
+  "4424122604": {
+    "name": "Straight Shot",
+    "lat": 47.6739746,
+    "lon": -122.2517223
+  },
+  "4424122605": {
+    "name": "Straight Shot",
+    "lat": 47.6740709,
+    "lon": -122.2517522
+  },
+  "4424122606": {
+    "name": "Straight Shot",
+    "lat": 47.6741379,
+    "lon": -122.251773
+  },
+  "4424122607": {
+    "name": "Straight Shot",
+    "lat": 47.674408,
+    "lon": -122.2518568
+  },
+  "4424122608": {
+    "name": "Straight Shot",
+    "lat": 47.6746816,
+    "lon": -122.2519417
+  },
+  "4424122609": {
+    "name": "Straight Shot",
+    "lat": 47.675248,
+    "lon": -122.2521176
+  },
+  "4424122610": {
+    "name": "Straight Shot",
+    "lat": 47.6777399,
+    "lon": -122.2528911
+  },
+  "4428337793": {
+    "name": "Three Brick Monoliths",
+    "lat": 47.6562224,
+    "lon": -122.309832
+  },
+  "4458196858": {
+    "name": "Reclaimed",
+    "lat": 47.6483068,
+    "lon": -122.3400928
+  },
+  "4522378886": {
+    "name": "W Emerson Pl & 21st Ave W",
+    "lat": 47.6556635,
+    "lon": -122.383519
+  },
+  "4526929123": {
+    "name": "Wallingford Animal Storm",
+    "lat": 47.661247,
+    "lon": -122.3360065
+  },
+  "4569027791": {
+    "name": "The Gardener",
+    "lat": 47.6779588,
+    "lon": -122.3928096
+  },
+  "4599205589": {
+    "name": "Roll Call",
+    "lat": 47.6099404,
+    "lon": -122.342844
+  },
+  "4608693536": {
+    "name": "Bettie Page",
+    "lat": 47.6713332,
+    "lon": -122.3209537
+  },
+  "4617821846": {
+    "name": "Hammered Man",
+    "lat": 47.6614027,
+    "lon": -122.3200242
+  },
+  "4622534789": {
+    "name": "Wings over Washington",
+    "lat": 47.6061547,
+    "lon": -122.34216
+  },
+  "4626879391": {
+    "name": "Comedy Underground",
+    "lat": 47.6005857,
+    "lon": -122.333578
+  },
+  "4640938889": {
+    "name": "Fremont Painting",
+    "lat": 47.650039,
+    "lon": -122.3495991
+  },
+  "4691596047": {
+    "name": "A Salish Welcome",
+    "lat": 47.6673716,
+    "lon": -122.4009137
+  },
+  "4702129243": {
+    "name": "Untitled",
+    "lat": 47.6533466,
+    "lon": -122.3147434
+  },
+  "4704281839": {
+    "name": "UW Sundial",
+    "lat": 47.6527176,
+    "lon": -122.3113282
+  },
+  "4712203715": {
+    "name": "Soundway Park",
+    "lat": 47.54357,
+    "lon": -122.3513141
+  },
+  "4714591046": {
+    "name": "Husky Stadium Parking",
+    "lat": 47.6496081,
+    "lon": -122.3028626
+  },
+  "4740477553": {
+    "name": "Urban Peace Circle",
+    "lat": 47.5897039,
+    "lon": -122.2971353
+  },
+  "4802016942": {
+    "name": "Smith Tower Observatory",
+    "lat": 47.6020211,
+    "lon": -122.331868
+  },
+  "4808436420": {
+    "name": "Waterway 19 Canoe/Kayak Launch",
+    "lat": 47.6467772,
+    "lon": -122.3329844
+  },
+  "4826020599": {
+    "name": "Water Mover",
+    "lat": 47.6500767,
+    "lon": -122.3488305
+  },
+  "4829362480": {
+    "name": "Seattle Municipal Tower Gallery",
+    "lat": 47.6050474,
+    "lon": -122.3295578
+  },
+  "4844750939": {
+    "name": "The Bell of Friendship",
+    "lat": 47.6108688,
+    "lon": -122.3313974
+  },
+  "4886750792": {
+    "name": "Giant Popsicle",
+    "lat": 47.6143934,
+    "lon": -122.3426168
+  },
+  "4936326284": {
+    "name": "Green Lake Shade Plaza Arch",
+    "lat": 47.6802337,
+    "lon": -122.3278102
+  },
+  "4989118395": {
+    "name": "Sea Turtles",
+    "lat": 47.6689647,
+    "lon": -122.3034351
+  },
+  "4993200933": {
+    "name": "32nd Avenue West Boat Launch",
+    "lat": 47.632119,
+    "lon": -122.3989938
+  },
+  "5067544621": {
+    "name": "Curve XXIV",
+    "lat": 47.6162554,
+    "lon": -122.353798
+  },
+  "5067615021": {
+    "name": "Feminine One",
+    "lat": 47.6208804,
+    "lon": -122.3496643
+  },
+  "5087780032": {
+    "name": "Ken Griffey Jr. Statue",
+    "lat": 47.590427,
+    "lon": -122.3339851
+  },
+  "5144238927": {
+    "name": "Blocked Out",
+    "lat": 47.6553861,
+    "lon": -122.3078816
+  },
+  "5169957426": {
+    "name": "Metamorphosis",
+    "lat": 47.6523859,
+    "lon": -122.3083372
+  },
+  "5352025419": {
+    "name": "Seattle George Monument",
+    "lat": 47.6111442,
+    "lon": -122.3304365
+  },
+  "5497812393": {
+    "name": "Breaking Away",
+    "lat": 47.6551286,
+    "lon": -122.310011
+  },
+  "5559459423": {
+    "name": "Seattle Escape Games",
+    "lat": 47.5570431,
+    "lon": -122.338531
+  },
+  "5581525005": {
+    "name": "The Eddy",
+    "lat": 47.705767,
+    "lon": -122.322399
+  },
+  "5599138321": {
+    "name": "Trades of the Duwamish",
+    "lat": 47.607327,
+    "lon": -122.340332
+  },
+  "5695306873": {
+    "name": "Mount Baker Center For The Arts",
+    "lat": 47.5771954,
+    "lon": -122.2975592
+  },
+  "5695638050": {
+    "name": "\"T\" Braille Faces of Art",
+    "lat": 47.5772669,
+    "lon": -122.2979611
+  },
+  "5695638051": {
+    "name": "\"R\" Braille Faces of Art",
+    "lat": 47.5772881,
+    "lon": -122.2979776
+  },
+  "5695638052": {
+    "name": "\"A\" Braille Faces of Art",
+    "lat": 47.5773083,
+    "lon": -122.2979937
+  },
+  "5718337790": {
+    "name": "Entry Gate",
+    "lat": 47.5128068,
+    "lon": -122.265683
+  },
+  "5718337803": {
+    "name": "Overlook",
+    "lat": 47.5128989,
+    "lon": -122.266212
+  },
+  "5718338232": {
+    "name": "Terrace Overlook",
+    "lat": 47.5122983,
+    "lon": -122.2665979
+  },
+  "5718338233": {
+    "name": "Mountainside",
+    "lat": 47.5138683,
+    "lon": -122.2681783
+  },
+  "5718338235": {
+    "name": "Lookout",
+    "lat": 47.5135968,
+    "lon": -122.2680225
+  },
+  "5718338236": {
+    "name": "Tom Kubota Stroll Garden",
+    "lat": 47.5140475,
+    "lon": -122.2664206
+  },
+  "5718338237": {
+    "name": "Fera Fera Forest",
+    "lat": 47.5143462,
+    "lon": -122.2666321
+  },
+  "5718338238": {
+    "name": "Japanese Garden",
+    "lat": 47.5137981,
+    "lon": -122.2658687
+  },
+  "5718338239": {
+    "name": "Maple Woods",
+    "lat": 47.5135838,
+    "lon": -122.2656033
+  },
+  "5718338240": {
+    "name": "Stone Garden",
+    "lat": 47.5131773,
+    "lon": -122.2664187
+  },
+  "5739816652": {
+    "name": "Don James",
+    "lat": 47.6515371,
+    "lon": -122.3031608
+  },
+  "5813034353": {
+    "name": "Pier 70 Viewpoint",
+    "lat": 47.6149211,
+    "lon": -122.3573479
+  },
+  "5908497561": {
+    "name": "Stereotype",
+    "lat": 47.6639959,
+    "lon": -122.3131255
+  },
+  "6001436380": {
+    "name": "Origin Of The Eagle Clan",
+    "lat": 47.638034,
+    "lon": -122.2946756
+  },
+  "6011372261": {
+    "name": "Leif Erikson",
+    "lat": 47.6701091,
+    "lon": -122.3867749
+  },
+  "6240063386": {
+    "name": "Seattle Gum Wall",
+    "lat": 47.6084386,
+    "lon": -122.3404292
+  },
+  "6267062095": {
+    "name": "Stainless Heart Edition Four",
+    "lat": 47.621857,
+    "lon": -122.3329178
+  },
+  "6267076111": {
+    "name": "Cross My Palm",
+    "lat": 47.6149945,
+    "lon": -122.346552
+  },
+  "6267076946": {
+    "name": "Topographic Syncretism",
+    "lat": 47.6149107,
+    "lon": -122.3461651
+  },
+  "6267079753": {
+    "name": "Tv\u00e5 Enh\u00f6rning",
+    "lat": 47.6230932,
+    "lon": -122.3539502
+  },
+  "6466842293": {
+    "name": "the Mambo",
+    "lat": 47.6216907,
+    "lon": -122.3210146
+  },
+  "6466882755": {
+    "name": "the Waltz",
+    "lat": 47.6198524,
+    "lon": -122.3210332
+  },
+  "6466910421": {
+    "name": "BUSSTOP (a variation on the)",
+    "lat": 47.6185978,
+    "lon": -122.3209806
+  },
+  "6466930499": {
+    "name": "Wind Cradle",
+    "lat": 47.6158182,
+    "lon": -122.3210515
+  },
+  "6466937004": {
+    "name": "Park Sculpture",
+    "lat": 47.6155765,
+    "lon": -122.321428
+  },
+  "6466951219": {
+    "name": "Cha-Cha-Cha",
+    "lat": 47.6150709,
+    "lon": -122.3208978
+  },
+  "6482263651": {
+    "name": "Harry Partch Instrumentarium",
+    "lat": 47.6575329,
+    "lon": -122.305622
+  },
+  "6797551982": {
+    "name": "Switchwall",
+    "lat": 47.6191322,
+    "lon": -122.3311906
+  },
+  "6797551983": {
+    "name": "Transforest",
+    "lat": 47.6187489,
+    "lon": -122.3328368
+  },
+  "6926139437": {
+    "name": "Connections Musuem",
+    "lat": 47.5407112,
+    "lon": -122.32325
+  },
+  "6981829586": {
+    "name": "Seattle Gum Wall",
+    "lat": 47.6084397,
+    "lon": -122.3404409
+  },
+  "7027086157": {
+    "name": "Tikvah's Garden",
+    "lat": 47.6529456,
+    "lon": -122.315683
+  },
+  "7138665445": {
+    "name": "Tr\u1ea7n H\u01b0ng \u0110\u1ea1o",
+    "lat": 47.5381663,
+    "lon": -122.362643
+  },
+  "7298235289": {
+    "name": "Shinran Shonin Statue",
+    "lat": 47.6001768,
+    "lon": -122.3130738
+  },
+  "7374007795": {
+    "name": "Groundswell",
+    "lat": 47.6803368,
+    "lon": -122.4052055
+  },
+  "7417887179": {
+    "name": "Gesture and Button Stones",
+    "lat": 47.6684397,
+    "lon": -122.3804754
+  },
+  "7684372606": {
+    "name": "Baboons",
+    "lat": 47.6660583,
+    "lon": -122.35083
+  },
+  "7714824318": {
+    "name": "Myrkott Pa Reutersvard",
+    "lat": 47.6012639,
+    "lon": -122.3309099
+  },
+  "7714837525": {
+    "name": "Efter Reutersvard",
+    "lat": 47.6013085,
+    "lon": -122.3305642
+  },
+  "7725301780": {
+    "name": "In Loving Memory of Peter Cipra",
+    "lat": 47.6111388,
+    "lon": -122.3417953
+  },
+  "7792670559": {
+    "name": "Bench for Meditation",
+    "lat": 47.6569193,
+    "lon": -122.3123397
+  },
+  "7792670560": {
+    "name": "Time Frame",
+    "lat": 47.6574791,
+    "lon": -122.3123378
+  },
+  "7863103488": {
+    "name": "Seattle Aquarium",
+    "lat": 47.6078027,
+    "lon": -122.3431833
+  },
+  "8156900401": {
+    "name": "Twilight",
+    "lat": 47.6278218,
+    "lon": -122.3364
+  },
+  "8184420599": {
+    "name": "Page Turn",
+    "lat": 47.6876735,
+    "lon": -122.355159
+  },
+  "8403581149": {
+    "name": "The Ravenna Troll Booth",
+    "lat": 47.6705809,
+    "lon": -122.3095815
+  },
+  "8409709901": {
+    "name": "Rainbow Point",
+    "lat": 47.6825377,
+    "lon": -122.3205062
+  },
+  "8439909811": {
+    "name": "The Seated IV",
+    "lat": 47.6550894,
+    "lon": -122.311438
+  },
+  "8442509712": {
+    "name": "Sonic Bloom",
+    "lat": 47.6200032,
+    "lon": -122.3503016
+  },
+  "8474659235": {
+    "name": "Echo",
+    "lat": 47.615265,
+    "lon": -122.355602
+  },
+  "8490849009": {
+    "name": "#WeGotThisSeattle",
+    "lat": 47.6886609,
+    "lon": -122.30291
+  },
+  "8492964943": {
+    "name": "Black Lives Matter",
+    "lat": 47.691114,
+    "lon": -122.291061
+  },
+  "8522832815": {
+    "name": "Picardo Venus",
+    "lat": 47.6879756,
+    "lon": -122.3001049
+  },
+  "8533303684": {
+    "name": "Sun Yat-sen statue",
+    "lat": 47.597632,
+    "lon": -122.3236139
+  },
+  "8533332630": {
+    "name": "Typewriter Eraser, Scale X",
+    "lat": 47.6219867,
+    "lon": -122.3484952
+  },
+  "8576808269": {
+    "name": "Wedgwood Duck House",
+    "lat": 47.6901438,
+    "lon": -122.292093
+  },
+  "8597655820": {
+    "name": "Community Jewels: Diamonds are Forever",
+    "lat": 47.6169455,
+    "lon": -122.3184893
+  },
+  "8620195934": {
+    "name": "Husky Statue",
+    "lat": 47.655655,
+    "lon": -122.3056028
+  },
+  "8620195935": {
+    "name": "George Washington",
+    "lat": 47.655839,
+    "lon": -122.3051733
+  },
+  "8643067011": {
+    "name": "W",
+    "lat": 47.6609502,
+    "lon": -122.309657
+  },
+  "8660653293": {
+    "name": "Stairway to Nowhere",
+    "lat": 47.654874,
+    "lon": -122.3110625
+  },
+  "8667126594": {
+    "name": "Rollback Bench",
+    "lat": 47.6478851,
+    "lon": -122.2997276
+  },
+  "8667910127": {
+    "name": "Reflect",
+    "lat": 47.6490144,
+    "lon": -122.3054534
+  },
+  "8674576761": {
+    "name": "Reading Room",
+    "lat": 47.6558195,
+    "lon": -122.3084839
+  },
+  "8706578330": {
+    "name": "Parking Squid",
+    "lat": 47.6685876,
+    "lon": -122.3944273
+  },
+  "8708529593": {
+    "name": "Untitled",
+    "lat": 47.6536303,
+    "lon": -122.3063848
+  },
+  "8723521981": {
+    "name": "Walking on Logs",
+    "lat": 47.5694372,
+    "lon": -122.3731376
+  },
+  "8895999717": {
+    "name": "Divine",
+    "lat": 47.6712916,
+    "lon": -122.3209537
+  },
+  "8930777428": {
+    "name": "Adam",
+    "lat": 47.6051798,
+    "lon": -122.3353829
+  },
+  "8930777429": {
+    "name": "What Goes Up Must Come Down",
+    "lat": 47.6057171,
+    "lon": -122.3359014
+  },
+  "8999494761": {
+    "name": "Edgar Mart\u00ednez Statue",
+    "lat": 47.5903986,
+    "lon": -122.333386
+  },
+  "9143411748": {
+    "name": "Seattle Wishing Tree",
+    "lat": 47.5532617,
+    "lon": -122.295264
+  },
+  "4755066": {
+    "name": "Seattle Center",
+    "lat": 47.62234415925927,
+    "lon": -122.3519347851852
+  },
+  "8097142": {
+    "name": "Woodland Park",
+    "lat": 47.67057513898306,
+    "lon": -122.34415454745763
+  },
+  "8097291": {
+    "name": "Westlake Park",
+    "lat": 47.61107919411764,
+    "lon": -122.3370207647059
+  },
+  "8097422": {
+    "name": "Fremont Canal Park",
+    "lat": 47.65186921875001,
+    "lon": -122.35792065000003
+  },
+  "9108781": {
+    "name": "Carkeek Park",
+    "lat": 47.7108800557047,
+    "lon": -122.36954657516776
+  },
+  "12903132": {
+    "name": "Space Needle",
+    "lat": 47.62050031875001,
+    "lon": -122.34929754374998
+  },
+  "12908403": {
+    "name": "North Passage Point Park",
+    "lat": 47.653957039999995,
+    "lon": -122.32234329999997
+  },
+  "13513921": {
+    "name": "South Passage Point Park",
+    "lat": 47.652148468750006,
+    "lon": -122.32256131875
+  },
+  "13515109": {
+    "name": "Fairview Park",
+    "lat": 47.64757994,
+    "lon": -122.32493943000001
+  },
+  "13800188": {
+    "name": "Volunteer Park",
+    "lat": 47.63062712727273,
+    "lon": -122.31737005454546
+  },
+  "13801411": {
+    "name": "Roanoke Park",
+    "lat": 47.64384254705882,
+    "lon": -122.3202831882353
+  },
+  "13866261": {
+    "name": "Washington State Convention Center",
+    "lat": 47.611513086153856,
+    "lon": -122.33116990461538
+  },
+  "14026690": {
+    "name": "Victor Steinbrueck Park",
+    "lat": 47.610116955555554,
+    "lon": -122.34375888888887
+  },
+  "14210847": {
+    "name": "Thomas C. Wales Park",
+    "lat": 47.640234783333334,
+    "lon": -122.34503833333332
+  },
+  "14386124": {
+    "name": "Louisa Boren Overlook",
+    "lat": 47.63441831666666,
+    "lon": -122.3124648
+  },
+  "25123756": {
+    "name": "Climate Pledge Arena",
+    "lat": 47.6220359222222,
+    "lon": -122.35400968055556
+  },
+  "25788265": {
+    "name": "Denny Park",
+    "lat": 47.618962566666674,
+    "lon": -122.34106135
+  },
+  "25790355": {
+    "name": "Cascade Playground",
+    "lat": 47.62168053333334,
+    "lon": -122.33249805000001
+  },
+  "25793222": {
+    "name": "Kobe Terrace Park",
+    "lat": 47.600865999999996,
+    "lon": -122.32483006800001
+  },
+  "25807525": {
+    "name": "Wisteria Park",
+    "lat": 47.600472087499995,
+    "lon": -122.31246986249998
+  },
+  "25807866": {
+    "name": "Pratt Park",
+    "lat": 47.60085663846154,
+    "lon": -122.30776106153847
+  },
+  "26397746": {
+    "name": "Hing Hay Park",
+    "lat": 47.59855328823529,
+    "lon": -122.32602191176468
+  },
+  "26397758": {
+    "name": "Donnie Chin International Children\u2019s Park",
+    "lat": 47.596914319999996,
+    "lon": -122.323487
+  },
+  "26397951": {
+    "name": "Daejeon Park",
+    "lat": 47.59210195897435,
+    "lon": -122.31212347692308
+  },
+  "26398063": {
+    "name": "Jose Rizal Dog Park",
+    "lat": 47.593308388461544,
+    "lon": -122.31827619230768
+  },
+  "26398092": {
+    "name": "Dr. Jose Rizal Park",
+    "lat": 47.5933269875,
+    "lon": -122.31821540625
+  },
+  "29897483": {
+    "name": "Virgil Flaim Park",
+    "lat": 47.71788113333333,
+    "lon": -122.29936061666668
+  },
+  "30199408": {
+    "name": "Madrona Playground",
+    "lat": 47.61111696,
+    "lon": -122.28998612000001
+  },
+  "31065701": {
+    "name": "Lincoln Park",
+    "lat": 47.532041464,
+    "lon": -122.39664035200002
+  },
+  "31112354": {
+    "name": "Fauntleroy Park",
+    "lat": 47.51935417419353,
+    "lon": -122.38261092580646
+  },
+  "31145392": {
+    "name": "Camp Long",
+    "lat": 47.55838483589743,
+    "lon": -122.37414648461537
+  },
+  "31323918": {
+    "name": "Arroyo Heights Park",
+    "lat": 47.50465542051282,
+    "lon": -122.38469376153844
+  },
+  "31324455": {
+    "name": "Seola Park",
+    "lat": 47.50081479090909,
+    "lon": -122.37418693636363
+  },
+  "31651656": {
+    "name": "Greg Davis Park",
+    "lat": 47.55456870625,
+    "lon": -122.36648941250002
+  },
+  "31652093": {
+    "name": "Cottage Grove Park",
+    "lat": 47.55422568571429,
+    "lon": -122.36511818571428
+  },
+  "31658929": {
+    "name": "Delridge Playfield",
+    "lat": 47.56230855263158,
+    "lon": -122.36378218947371
+  },
+  "31658933": {
+    "name": "Dragonfly Garden",
+    "lat": 47.566641133333334,
+    "lon": -122.36758209333333
+  },
+  "31659491": {
+    "name": "Rotary Viewpoint",
+    "lat": 47.560339222222225,
+    "lon": -122.37579602222223
+  },
+  "31659520": {
+    "name": "West Seattle Stadium",
+    "lat": 47.56298926285715,
+    "lon": -122.37391834571426
+  },
+  "31696963": {
+    "name": "E. C. Hughes Playground;Hughes Playground Emergency Hub",
+    "lat": 47.532629220000004,
+    "lon": -122.36972512
+  },
+  "31697823": {
+    "name": "High Point Community Center and Playfield",
+    "lat": 47.54064421538461,
+    "lon": -122.37336903076923
+  },
+  "31706566": {
+    "name": "Seattle Chinese Garden",
+    "lat": 47.55217853043478,
+    "lon": -122.3524298478261
+  },
+  "31712713": {
+    "name": "Meadowbrook Pond",
+    "lat": 47.70599216499999,
+    "lon": -122.28907573499995
+  },
+  "31870314": {
+    "name": "Lowman Beach Park",
+    "lat": 47.540124766666665,
+    "lon": -122.3971719
+  },
+  "31870424": {
+    "name": "Solstice Park",
+    "lat": 47.53633897727274,
+    "lon": -122.39048066818178
+  },
+  "31870890": {
+    "name": "Westcrest Park",
+    "lat": 47.521804976923086,
+    "lon": -122.34084476153848
+  },
+  "32123475": {
+    "name": "Fairmount Playfield",
+    "lat": 47.55389338421054,
+    "lon": -122.38080594210528
+  },
+  "32144206": {
+    "name": "I-5 Colonnade Park",
+    "lat": 47.635083121739115,
+    "lon": -122.32324772173914
+  },
+  "32401639": {
+    "name": "Schmitz Preserve Park",
+    "lat": 47.575417512499996,
+    "lon": -122.40163505833338
+  },
+  "32526883": {
+    "name": "Ross Park",
+    "lat": 47.65985678,
+    "lon": -122.36142279999999
+  },
+  "32527194": {
+    "name": "Fremont Peak Park",
+    "lat": 47.66114654545454,
+    "lon": -122.35668198181817
+  },
+  "32869952": {
+    "name": "Penguin Park",
+    "lat": 47.69700851666666,
+    "lon": -122.28787586666665
+  },
+  "33727482": {
+    "name": "Rose Garden",
+    "lat": 47.66542500952381,
+    "lon": -122.34934926190479
+  },
+  "34150701": {
+    "name": "Licton Springs Park",
+    "lat": 47.69848014358974,
+    "lon": -122.33885155641026
+  },
+  "34150971": {
+    "name": "Mineral Springs Park",
+    "lat": 47.70567515925927,
+    "lon": -122.33712834074075
+  },
+  "34932485": {
+    "name": "King County West Point Wastewater Treatment Plant",
+    "lat": 47.66327131463412,
+    "lon": -122.42825221463417
+  },
+  "35090134": {
+    "name": "Northgate Park",
+    "lat": 47.70578829,
+    "lon": -122.32250096
+  },
+  "35838162": {
+    "name": "Jackson Park P-Patch",
+    "lat": 47.72452823333333,
+    "lon": -122.31840828333333
+  },
+  "36413699": {
+    "name": "Linden Orchard Park",
+    "lat": 47.67805670833334,
+    "lon": -122.34768396666668
+  },
+  "36839785": {
+    "name": "Seattle Asian Art Museum",
+    "lat": 47.630311130612235,
+    "lon": -122.31432142040818
+  },
+  "37056442": {
+    "name": "Central Library",
+    "lat": 47.6067107,
+    "lon": -122.3326592769231
+  },
+  "37114650": {
+    "name": "Regrade Park",
+    "lat": 47.61428676,
+    "lon": -122.34474918000001
+  },
+  "37299975": {
+    "name": "Thornton Creek Water Quality Channel",
+    "lat": 47.702072876666655,
+    "lon": -122.32427898666666
+  },
+  "37623345": {
+    "name": "Roosevelt P-Patch",
+    "lat": 47.679958680000006,
+    "lon": -122.31534904
+  },
+  "37623411": {
+    "name": "Thyme Patch Park",
+    "lat": 47.6707451,
+    "lon": -122.39521687142857
+  },
+  "37623649": {
+    "name": "Oxbow Park",
+    "lat": 47.54503562000001,
+    "lon": -122.32166302
+  },
+  "38505324": {
+    "name": "North 125th Street End",
+    "lat": 47.71956901428571,
+    "lon": -122.33626518571428
+  },
+  "38655779": {
+    "name": "Bayview Playground",
+    "lat": 47.6440525375,
+    "lon": -122.3866663875
+  },
+  "40790430": {
+    "name": "Volunteer Park Water Tower",
+    "lat": 47.62902640952381,
+    "lon": -122.31457311904762
+  },
+  "40819484": {
+    "name": "Rogers Playground",
+    "lat": 47.64291471,
+    "lon": -122.32525122
+  },
+  "40829979": {
+    "name": "Marsh Island",
+    "lat": 47.64608594418604,
+    "lon": -122.29642256279068
+  },
+  "40829984": {
+    "name": "Foster Island",
+    "lat": 47.645047449629615,
+    "lon": -122.29072633851855
+  },
+  "40830027": {
+    "name": "Elderberry Island",
+    "lat": 47.642079464285715,
+    "lon": -122.29594714285714
+  },
+  "40831086": {
+    "name": "East Montlake Park",
+    "lat": 47.64595027209301,
+    "lon": -122.3003021023256
+  },
+  "40833028": {
+    "name": "West Montlake Park",
+    "lat": 47.64606982727273,
+    "lon": -122.30922278181819
+  },
+  "40833029": {
+    "name": "Montlake Playfield",
+    "lat": 47.64207665238096,
+    "lon": -122.3089266714286
+  },
+  "41293170": {
+    "name": "Ella Bailey Park",
+    "lat": 47.64059087500001,
+    "lon": -122.391482625
+  },
+  "42006992": {
+    "name": "Kubota Garden",
+    "lat": 47.513162141176466,
+    "lon": -122.26733966470589
+  },
+  "42512155": {
+    "name": "Pinehurst Pocket Park",
+    "lat": 47.714182566666665,
+    "lon": -122.30827161666666
+  },
+  "47570199": {
+    "name": "East Queen Anne Playfield",
+    "lat": 47.636206220000005,
+    "lon": -122.35390178
+  },
+  "49100266": {
+    "name": "Wallingford Triangle Park",
+    "lat": 47.65297737499999,
+    "lon": -122.328954075
+  },
+  "49232846": {
+    "name": "A. B. Ernst Park",
+    "lat": 47.65004271666667,
+    "lon": -122.34876253333333
+  },
+  "49321099": {
+    "name": "Kinnear Park",
+    "lat": 47.62721939499999,
+    "lon": -122.367715505
+  },
+  "49668026": {
+    "name": "Peace Park",
+    "lat": 47.65568149230769,
+    "lon": -122.31955961538463
+  },
+  "49734702": {
+    "name": "Kerry Park",
+    "lat": 47.62936405,
+    "lon": -122.35995318333333
+  },
+  "49734703": {
+    "name": "Franklin Place",
+    "lat": 47.62849432,
+    "lon": -122.3595112
+  },
+  "49734704": {
+    "name": "West Queen Anne Playfield",
+    "lat": 47.63549876666667,
+    "lon": -122.36006331666668
+  },
+  "49734705": {
+    "name": "Terry Pettus Park",
+    "lat": 47.63671372727272,
+    "lon": -122.32933002727273
+  },
+  "49734706": {
+    "name": "Spring Street Mini Park",
+    "lat": 47.611738550000005,
+    "lon": -122.31251323333333
+  },
+  "49734707": {
+    "name": "T. T. Minor Playground",
+    "lat": 47.6137387,
+    "lon": -122.3105057
+  },
+  "49747361": {
+    "name": "Center for Wooden Boats",
+    "lat": 47.62721048,
+    "lon": -122.33591334
+  },
+  "49749535": {
+    "name": "Miller Triangle",
+    "lat": 47.620349,
+    "lon": -122.305772175
+  },
+  "49749536": {
+    "name": "Miller Playfield",
+    "lat": 47.621499750000005,
+    "lon": -122.30603172500001
+  },
+  "49830903": {
+    "name": "Seacrest Park",
+    "lat": 47.58916079245283,
+    "lon": -122.38003894528299
+  },
+  "50275547": {
+    "name": "Andover Place",
+    "lat": 47.56854487142857,
+    "lon": -122.40962897142856
+  },
+  "50275550": {
+    "name": "Alki Playground",
+    "lat": 47.57888437142857,
+    "lon": -122.40711020000002
+  },
+  "50275554": {
+    "name": "Arapahoe Triangle",
+    "lat": 47.65130794,
+    "lon": -122.40908445999999
+  },
+  "50275555": {
+    "name": "6th Avenue Northwest Pocket Park",
+    "lat": 47.68425082,
+    "lon": -122.3636572
+  },
+  "50275556": {
+    "name": "Pritchard Island Beach",
+    "lat": 47.52857072727272,
+    "lon": -122.26298942727273
+  },
+  "50275578": {
+    "name": "Alvin Larkins Park",
+    "lat": 47.61431106,
+    "lon": -122.28879787999999
+  },
+  "50275579": {
+    "name": "Lake City Mini-Park",
+    "lat": 47.71915272,
+    "lon": -122.29595652
+  },
+  "50275581": {
+    "name": "Albert Davis Park",
+    "lat": 47.72011141428572,
+    "lon": -122.29876142857142
+  },
+  "50321775": {
+    "name": "Ballard Playground",
+    "lat": 47.672856360000004,
+    "lon": -122.39129736
+  },
+  "50321777": {
+    "name": "B.F. Day Playfield",
+    "lat": 47.65614644285714,
+    "lon": -122.34930477142856
+  },
+  "50321784": {
+    "name": "Ballard Commons Park",
+    "lat": 47.67061424,
+    "lon": -122.38536377999999
+  },
+  "50321786": {
+    "name": "Ballard Corners Park",
+    "lat": 47.67425756,
+    "lon": -122.37908741999999
+  },
+  "50321787": {
+    "name": "Baker Park",
+    "lat": 47.690055099999995,
+    "lon": -122.37490677142856
+  },
+  "50321788": {
+    "name": "Bagley Viewpoint",
+    "lat": 47.643050200000005,
+    "lon": -122.31845205
+  },
+  "50329129": {
+    "name": "Belltown Cottage Park",
+    "lat": 47.613958440000005,
+    "lon": -122.3509785
+  },
+  "50329131": {
+    "name": "Bayview-Kinnear Park",
+    "lat": 47.62903602,
+    "lon": -122.36015944
+  },
+  "50329137": {
+    "name": "Bellevue Place",
+    "lat": 47.62702792000001,
+    "lon": -122.32774306666667
+  },
+  "50415041": {
+    "name": "Belvedere Park",
+    "lat": 47.58064790769231,
+    "lon": -122.37734581538463
+  },
+  "50419095": {
+    "name": "Bhy Kracke Park",
+    "lat": 47.630374904,
+    "lon": -122.34830456000003
+  },
+  "50419096": {
+    "name": "Bergen Place",
+    "lat": 47.66834404000001,
+    "lon": -122.38452156000001
+  },
+  "50419098": {
+    "name": "East Portal View",
+    "lat": 47.59015950769231,
+    "lon": -122.2874675076923
+  },
+  "50419099": {
+    "name": "Day Street Boat Ramp",
+    "lat": 47.59054273636364,
+    "lon": -122.28630536363634
+  },
+  "50419101": {
+    "name": "Belvoir Place",
+    "lat": 47.65492323125001,
+    "lon": -122.28345647500001
+  },
+  "50536558": {
+    "name": "Blue Ridge Circle",
+    "lat": 47.704343011111106,
+    "lon": -122.38046623333334
+  },
+  "50536563": {
+    "name": "Bitter Lake Reservoir Open Space",
+    "lat": 47.7308616883721,
+    "lon": -122.34863135581395
+  },
+  "50536569": {
+    "name": "Bradner Gardens Park",
+    "lat": 47.587333387499996,
+    "lon": -122.2954859
+  },
+  "50536572": {
+    "name": "Boren Place",
+    "lat": 47.60512165,
+    "lon": -122.32103615
+  },
+  "50536573": {
+    "name": "Louisa Boren Park",
+    "lat": 47.63521106470588,
+    "lon": -122.31192263529411
+  },
+  "50536576": {
+    "name": "Burke-Gilman Playground Park",
+    "lat": 47.66700666,
+    "lon": -122.2828950257143
+  },
+  "50622236": {
+    "name": "Carleton Highlands Park",
+    "lat": 47.65011886250001,
+    "lon": -122.415952675
+  },
+  "50622237": {
+    "name": "Carleton Center",
+    "lat": 47.6394348846154,
+    "lon": -122.40640303846152
+  },
+  "50622238": {
+    "name": "Cesar Chavez Park",
+    "lat": 47.52680685,
+    "lon": -122.325356575
+  },
+  "50622242": {
+    "name": "South Park Playground",
+    "lat": 47.52809373333333,
+    "lon": -122.32404616666668
+  },
+  "50622252": {
+    "name": "Cedar Park",
+    "lat": 47.72599505,
+    "lon": -122.28813605
+  },
+  "50723126": {
+    "name": "Cormorant Cove",
+    "lat": 47.57094386470588,
+    "lon": -122.41115524117649
+  },
+  "50723129": {
+    "name": "Charles Richey Senior Viewpoint",
+    "lat": 47.573610186666684,
+    "lon": -122.41632714500007
+  },
+  "50783771": {
+    "name": "Chinook Beach Park",
+    "lat": 47.520027975000005,
+    "lon": -122.25850538333333
+  },
+  "50786465": {
+    "name": "Christie Park",
+    "lat": 47.65924903333334,
+    "lon": -122.31912116666666
+  },
+  "51473915": {
+    "name": "Martin Luther King Junior Civil Rights Memorial Park",
+    "lat": 47.582788962500004,
+    "lon": -122.29728941249999
+  },
+  "51473916": {
+    "name": "College Street Park",
+    "lat": 47.582731300000006,
+    "lon": -122.29452734000002
+  },
+  "51475862": {
+    "name": "Commodore Park",
+    "lat": 47.66520974324324,
+    "lon": -122.39986588378373
+  },
+  "51475864": {
+    "name": "Carl S. English Jr. Botanical Gardens",
+    "lat": 47.66695361000001,
+    "lon": -122.39810328000003
+  },
+  "51805182": {
+    "name": "Counterbalance Park",
+    "lat": 47.62571734000001,
+    "lon": -122.35637979999998
+  },
+  "51805184": {
+    "name": "Crown Hill Glen",
+    "lat": 47.693744,
+    "lon": -122.38146328333335
+  },
+  "51805187": {
+    "name": "Meridian Park",
+    "lat": 47.66407861666667,
+    "lon": -122.332017075
+  },
+  "51805194": {
+    "name": "Corliss Place",
+    "lat": 47.665272040000005,
+    "lon": -122.33091664000001
+  },
+  "51805195": {
+    "name": "Crescent Place",
+    "lat": 47.68431580526317,
+    "lon": -122.33301655789474
+  },
+  "51809143": {
+    "name": "Don Armeni Boat Ramp",
+    "lat": 47.592733803846166,
+    "lon": -122.3822519846154
+  },
+  "51809145": {
+    "name": "Dakota Place Park",
+    "lat": 47.56686284,
+    "lon": -122.38712665999999
+  },
+  "51809148": {
+    "name": "Duwamish Waterway Park",
+    "lat": 47.531307559999995,
+    "lon": -122.31956381333333
+  },
+  "51809150": {
+    "name": "Dearborn Park",
+    "lat": 47.55368372499999,
+    "lon": -122.296856175
+  },
+  "51809157": {
+    "name": "Denny Blaine Lake Park",
+    "lat": 47.618350362499996,
+    "lon": -122.284881075
+  },
+  "51809160": {
+    "name": "Viretta Park",
+    "lat": 47.618615371428575,
+    "lon": -122.28197372142856
+  },
+  "51809162": {
+    "name": "Waldo J. Dahl Park",
+    "lat": 47.68505706250001,
+    "lon": -122.299630725
+  },
+  "51870591": {
+    "name": "Endolyne Park",
+    "lat": 47.51443411666667,
+    "lon": -122.39430926666667
+  },
+  "51870593": {
+    "name": "Emma Schmitz Memorial Overlook",
+    "lat": 47.562942803703706,
+    "lon": -122.40613919629631
+  },
+  "51870594": {
+    "name": "Me-Kwa-Mooks Park",
+    "lat": 47.563141300000005,
+    "lon": -122.40436539090909
+  },
+  "52128531": {
+    "name": "Kilbourne Park",
+    "lat": 47.52126711428572,
+    "lon": -122.38819923571428
+  },
+  "52128532": {
+    "name": "First Hill Park",
+    "lat": 47.6119015,
+    "lon": -122.3255662
+  },
+  "52128533": {
+    "name": "Firehouse Mini Park",
+    "lat": 47.60845477142857,
+    "lon": -122.30854308571429
+  },
+  "52135055": {
+    "name": "Frink Park",
+    "lat": 47.59863193513514,
+    "lon": -122.29055113783784
+  },
+  "52135059": {
+    "name": "Froula Park",
+    "lat": 47.68077904999999,
+    "lon": -122.31414146666667
+  },
+  "52141605": {
+    "name": "Georgetown Playfield",
+    "lat": 47.551703599999996,
+    "lon": -122.32131116250001
+  },
+  "52201954": {
+    "name": "Garfield Playfield",
+    "lat": 47.60723022857143,
+    "lon": -122.30132567142857
+  },
+  "52324866": {
+    "name": "Gilman Playground",
+    "lat": 47.66723657272726,
+    "lon": -122.36987500909093
+  },
+  "52324868": {
+    "name": "Grand Army of the Republic Cemetery",
+    "lat": 47.636371575,
+    "lon": -122.31613564999999
+  },
+  "52324869": {
+    "name": "Gerber Park",
+    "lat": 47.6076498,
+    "lon": -122.2966459
+  },
+  "52324870": {
+    "name": "Powell Barnett Park",
+    "lat": 47.60541128,
+    "lon": -122.29621214
+  },
+  "52496966": {
+    "name": "Hamilton Viewpoint Park",
+    "lat": 47.59297339066666,
+    "lon": -122.38582077333338
+  },
+  "52563647": {
+    "name": "Mayfair Park",
+    "lat": 47.643131630000006,
+    "lon": -122.35338906
+  },
+  "52563649": {
+    "name": "West Ewing Mini Park",
+    "lat": 47.65197846923076,
+    "lon": -122.36036385384615
+  },
+  "52781879": {
+    "name": "Pioneer Square",
+    "lat": 47.60207617500001,
+    "lon": -122.33394381666666
+  },
+  "52782041": {
+    "name": "Pioneer Square Pergola",
+    "lat": 47.60185394615384,
+    "lon": -122.33393470769231
+  },
+  "52969833": {
+    "name": "Harrison Ridge Greenbelt",
+    "lat": 47.61987941666666,
+    "lon": -122.29010757666667
+  },
+  "52969836": {
+    "name": "Lakeview Park",
+    "lat": 47.62203596190476,
+    "lon": -122.28471635714288
+  },
+  "53333108": {
+    "name": "h\u0259\u0294apus Village Park and Shoreline Habitat",
+    "lat": 47.557601192125986,
+    "lon": -122.34978169685039
+  },
+  "53371551": {
+    "name": "Ward Springs Park",
+    "lat": 47.627798379999994,
+    "lon": -122.34918434000001
+  },
+  "53533391": {
+    "name": "Sakuma Viewpoint",
+    "lat": 47.65167028461539,
+    "lon": -122.3150205153846
+  },
+  "53588536": {
+    "name": "Loyal Heights Playfield",
+    "lat": 47.684372466666666,
+    "lon": -122.38354683333334
+  },
+  "53590572": {
+    "name": "Pinehurst Playground",
+    "lat": 47.716484900000005,
+    "lon": -122.31450226
+  },
+  "53594531": {
+    "name": "Northacres Park",
+    "lat": 47.721364357894736,
+    "lon": -122.32638126842106
+  },
+  "53600070": {
+    "name": "Salmon Bay Park",
+    "lat": 47.679456442857145,
+    "lon": -122.38188428571428
+  },
+  "53610784": {
+    "name": "Hiawatha Playfield",
+    "lat": 47.5780485,
+    "lon": -122.38526978
+  },
+  "53788270": {
+    "name": "59th Street Park",
+    "lat": 47.67101083333333,
+    "lon": -122.35325922222222
+  },
+  "54029687": {
+    "name": "Henry Art Gallery",
+    "lat": 47.65648076190476,
+    "lon": -122.31167256666669
+  },
+  "54144516": {
+    "name": "War Garden Public Park",
+    "lat": 47.66552031428572,
+    "lon": -122.3528940142857
+  },
+  "54882924": {
+    "name": "Ercolini Park",
+    "lat": 47.56153386,
+    "lon": -122.39308084
+  },
+  "54905008": {
+    "name": "Howell Park",
+    "lat": 47.61754523333333,
+    "lon": -122.28056556666667
+  },
+  "54905011": {
+    "name": "Hunter Boulevard",
+    "lat": 47.57300616,
+    "lon": -122.28498758666666
+  },
+  "54905017": {
+    "name": "Horton Hill Corridor",
+    "lat": 47.57376704,
+    "lon": -122.28711619999999
+  },
+  "54905018": {
+    "name": "Homer Harris Park",
+    "lat": 47.61740873333333,
+    "lon": -122.30100776666666
+  },
+  "54905019": {
+    "name": "Hitt's Hill Park",
+    "lat": 47.5540038,
+    "lon": -122.28473658461543
+  },
+  "55174405": {
+    "name": "Inverness Ravine",
+    "lat": 47.69109885,
+    "lon": -122.280729775
+  },
+  "56176610": {
+    "name": "Othello Park",
+    "lat": 47.536137599999996,
+    "lon": -122.27821395714285
+  },
+  "56176612": {
+    "name": "John C. Little Senior Park",
+    "lat": 47.53830848378378,
+    "lon": -122.28649795135138
+  },
+  "56176615": {
+    "name": "Japanese Garden",
+    "lat": 47.62970575,
+    "lon": -122.29692400000002
+  },
+  "56176618": {
+    "name": "Van Asselt Park",
+    "lat": 47.539667921052626,
+    "lon": -122.29339536315788
+  },
+  "56176619": {
+    "name": "Bamboo Park",
+    "lat": 47.54159270000001,
+    "lon": -122.28979673125001
+  },
+  "56176621": {
+    "name": "Junction Plaza",
+    "lat": 47.5612518,
+    "lon": -122.38589347999998
+  },
+  "56176914": {
+    "name": "Soest Garden",
+    "lat": 47.6579831,
+    "lon": -122.28959454285713
+  },
+  "56178459": {
+    "name": "Madison Park North Beach",
+    "lat": 47.639223279999996,
+    "lon": -122.27672246
+  },
+  "56178741": {
+    "name": "Keystone Place",
+    "lat": 47.67031887142856,
+    "lon": -122.33383318571428
+  },
+  "56178742": {
+    "name": "Kiwanis Memorial Preserve Park",
+    "lat": 47.662643983050835,
+    "lon": -122.40139353728814
+  },
+  "56178743": {
+    "name": "Katie Black's Garden",
+    "lat": 47.59043455999999,
+    "lon": -122.31764100999999
+  },
+  "56178744": {
+    "name": "Kinnear Place",
+    "lat": 47.626212216666666,
+    "lon": -122.35721299999999
+  },
+  "56178745": {
+    "name": "Kiwanis Ravine Overlook",
+    "lat": 47.66021433333333,
+    "lon": -122.40310525
+  },
+  "56241421": {
+    "name": "East Hamlin Street End",
+    "lat": 47.64562153000001,
+    "lon": -122.32729581000001
+  },
+  "56241424": {
+    "name": "Good Turn Park",
+    "lat": 47.65069021666667,
+    "lon": -122.32365384999999
+  },
+  "56241429": {
+    "name": "Lynn Street Park",
+    "lat": 47.639796374999996,
+    "lon": -122.3295722
+  },
+  "56393779": {
+    "name": "Little Brook Park",
+    "lat": 47.731407100000006,
+    "lon": -122.29456395
+  },
+  "56395160": {
+    "name": "York Park",
+    "lat": 47.57049272,
+    "lon": -122.29548092
+  },
+  "56395162": {
+    "name": "Lakewood Triangle",
+    "lat": 47.57611295,
+    "lon": -122.28374776666668
+  },
+  "56395171": {
+    "name": "Landing Parkway",
+    "lat": 47.57334883600001,
+    "lon": -122.28210801600002
+  },
+  "56395172": {
+    "name": "Lake People (Xacua'bs) Park",
+    "lat": 47.569066140000004,
+    "lon": -122.29204606
+  },
+  "56395176": {
+    "name": "Lakeridge Playfield",
+    "lat": 47.510554718181815,
+    "lon": -122.24678204545454
+  },
+  "56395183": {
+    "name": "Lakeridge Park",
+    "lat": 47.50692595000001,
+    "lon": -122.247416547619
+  },
+  "56395184": {
+    "name": "Sierra Place",
+    "lat": 47.57328147142857,
+    "lon": -122.28248872857144
+  },
+  "56629212": {
+    "name": "Laurelhurst Triangle",
+    "lat": 47.6527034,
+    "lon": -122.277455275
+  },
+  "56629230": {
+    "name": "Leschi-Lake Dell Natural Area",
+    "lat": 47.60491278235296,
+    "lon": -122.28730301764705
+  },
+  "56629389": {
+    "name": "Lewis Park",
+    "lat": 47.59282122352942,
+    "lon": -122.31444625294117
+  },
+  "57386820": {
+    "name": "Trolley Hill Park",
+    "lat": 47.6350487,
+    "lon": -122.34711134
+  },
+  "57522839": {
+    "name": "Madrona Briar Patch",
+    "lat": 47.61525449999999,
+    "lon": -122.28438223333332
+  },
+  "57637326": {
+    "name": "Marshall Park",
+    "lat": 47.629552600000004,
+    "lon": -122.3668729857143
+  },
+  "57637336": {
+    "name": "Parsons Gardens",
+    "lat": 47.62981722000001,
+    "lon": -122.36615409999999
+  },
+  "57850373": {
+    "name": "Martha Washington Park",
+    "lat": 47.54223368,
+    "lon": -122.26021503599999
+  },
+  "57850379": {
+    "name": "Marra-Desimone Park",
+    "lat": 47.521389433333326,
+    "lon": -122.32792346666668
+  },
+  "57883614": {
+    "name": "Waterfall Garden",
+    "lat": 47.60019218,
+    "lon": -122.33201709999999
+  },
+  "57883622": {
+    "name": "Marvin's Garden",
+    "lat": 47.66789613636363,
+    "lon": -122.38490745454547
+  },
+  "57883627": {
+    "name": "McGilvra Place",
+    "lat": 47.614181800000004,
+    "lon": -122.31301810000001
+  },
+  "57883629": {
+    "name": "McGraw Square",
+    "lat": 47.61303039655172,
+    "lon": -122.33737054827587
+  },
+  "57885587": {
+    "name": "Mount Claire Park",
+    "lat": 47.580965175,
+    "lon": -122.28662303125
+  },
+  "57885588": {
+    "name": "Nantes Park",
+    "lat": 47.57956834,
+    "lon": -122.39718246
+  },
+  "57885591": {
+    "name": "Mount Baker Ridge Viewpoint",
+    "lat": 47.5904899,
+    "lon": -122.28933064
+  },
+  "58363993": {
+    "name": "Peppi's Playground",
+    "lat": 47.60279465333333,
+    "lon": -122.29039163333333
+  },
+  "58740248": {
+    "name": "Waterway 5 Park",
+    "lat": 47.62696866428572,
+    "lon": -122.33437372857142
+  },
+  "59037674": {
+    "name": "Northeast 60th Street Park",
+    "lat": 47.67138883333333,
+    "lon": -122.32260438333333
+  },
+  "59037675": {
+    "name": "Nora's Woods",
+    "lat": 47.608794919999994,
+    "lon": -122.29464264
+  },
+  "59877064": {
+    "name": "Orchard Street Ravine",
+    "lat": 47.53837356666667,
+    "lon": -122.38016093333333
+  },
+  "60005585": {
+    "name": "Pipers Creek Natural Area",
+    "lat": 47.71529764375,
+    "lon": -122.36409263125
+  },
+  "60007122": {
+    "name": "Plum Tree Park",
+    "lat": 47.617094179999995,
+    "lon": -122.29912728
+  },
+  "60007123": {
+    "name": "Prentis I. Frazier Park",
+    "lat": 47.622953942857144,
+    "lon": -122.30158048571427
+  },
+  "60116525": {
+    "name": "Rainier Beach Playfield",
+    "lat": 47.52489004545455,
+    "lon": -122.27348608181819
+  },
+  "60116526": {
+    "name": "Rainbow Point",
+    "lat": 47.682528166666664,
+    "lon": -122.32034699999998
+  },
+  "60193646": {
+    "name": "Ravenna-Eckstein Park",
+    "lat": 47.6769601,
+    "lon": -122.30503667272728
+  },
+  "60517403": {
+    "name": "Sacajawea Playground",
+    "lat": 47.6971107,
+    "lon": -122.30831426
+  },
+  "60713727": {
+    "name": "William Grose Park",
+    "lat": 47.61803557142857,
+    "lon": -122.29290055714286
+  },
+  "62207148": {
+    "name": "MacLean Park",
+    "lat": 47.636365739999995,
+    "lon": -122.34535842
+  },
+  "66218128": {
+    "name": "Tashkent Park",
+    "lat": 47.62382972222222,
+    "lon": -122.32348731111112
+  },
+  "66649038": {
+    "name": "South Park Meadow",
+    "lat": 47.520867640000006,
+    "lon": -122.32355646
+  },
+  "66649039": {
+    "name": "Spruce Street Mini Park",
+    "lat": 47.60304306,
+    "lon": -122.30469587999998
+  },
+  "66649040": {
+    "name": "Soundview Terrace",
+    "lat": 47.64090050000001,
+    "lon": -122.37150765384617
+  },
+  "66820433": {
+    "name": "Sturgus Park",
+    "lat": 47.59431784848485,
+    "lon": -122.31472014242424
+  },
+  "66820434": {
+    "name": "Stevens Place",
+    "lat": 47.577209599999996,
+    "lon": -122.310546375
+  },
+  "66984947": {
+    "name": "Sunset Hill Park",
+    "lat": 47.683941927868844,
+    "lon": -122.4006645557377
+  },
+  "67116771": {
+    "name": "12th Avenue South Viewpoint",
+    "lat": 47.57792574285714,
+    "lon": -122.31745967142857
+  },
+  "68666650": {
+    "name": "Ride the Ducks",
+    "lat": 47.62143005000001,
+    "lon": -122.34705896666667
+  },
+  "69153432": {
+    "name": "Ursula Judkins Viewpoint",
+    "lat": 47.632208248,
+    "lon": -122.39021227999997
+  },
+  "69153438": {
+    "name": "Union Station Square",
+    "lat": 47.5993363625,
+    "lon": -122.330071825
+  },
+  "69153441": {
+    "name": "University Circle",
+    "lat": 47.671855570000005,
+    "lon": -122.27540339499998
+  },
+  "69200843": {
+    "name": "Harborview Park",
+    "lat": 47.60387178,
+    "lon": -122.32563384
+  },
+  "69708554": {
+    "name": "Victory Creek Park",
+    "lat": 47.709304942857145,
+    "lon": -122.3153553
+  },
+  "69708557": {
+    "name": "View Ridge Park",
+    "lat": 47.68054367999999,
+    "lon": -122.28083884
+  },
+  "69708562": {
+    "name": "Victory Heights Playground",
+    "lat": 47.70582363333334,
+    "lon": -122.30795842777778
+  },
+  "75002679": {
+    "name": "Wallingford Steps",
+    "lat": 47.6471640875,
+    "lon": -122.33640669999998
+  },
+  "75010388": {
+    "name": "Weather Watch Park",
+    "lat": 47.567468383333335,
+    "lon": -122.40984518333333
+  },
+  "75010393": {
+    "name": "Webster Park",
+    "lat": 47.67769925714286,
+    "lon": -122.39757807142858
+  },
+  "75010395": {
+    "name": "Washington Street Boat Landing",
+    "lat": 47.600928714285715,
+    "lon": -122.33621432857142
+  },
+  "75971720": {
+    "name": "Sunset Place",
+    "lat": 47.66670922499999,
+    "lon": -122.357700075
+  },
+  "75978288": {
+    "name": "Westlake Square",
+    "lat": 47.61361584285714,
+    "lon": -122.33729547857142
+  },
+  "77303369": {
+    "name": "Hubbard Homestead Park",
+    "lat": 47.71012445384615,
+    "lon": -122.32474123846153
+  },
+  "84300009": {
+    "name": "23rd Avenue West",
+    "lat": 47.63231091428572,
+    "lon": -122.38699112857145
+  },
+  "84300059": {
+    "name": "23rd Avenue West",
+    "lat": 47.63340865,
+    "lon": -122.38698729999999
+  },
+  "88794169": {
+    "name": "Ravenna Woods",
+    "lat": 47.662722439999996,
+    "lon": -122.30327245999999
+  },
+  "101677291": {
+    "name": "Tilikum Place",
+    "lat": 47.618370875,
+    "lon": -122.347486275
+  },
+  "118121998": {
+    "name": "Seattle University Park",
+    "lat": 47.606964760000004,
+    "lon": -122.31736235999999
+  },
+  "155049628": {
+    "name": "Licorice Fern Natural Area",
+    "lat": 47.72398408518519,
+    "lon": -122.31604686296296
+  },
+  "157446923": {
+    "name": "Summit Slope Park",
+    "lat": 47.619884125000006,
+    "lon": -122.3249681125
+  },
+  "158265918": {
+    "name": "Wallingford Playfield",
+    "lat": 47.6584731875,
+    "lon": -122.33766263749999
+  },
+  "158605688": {
+    "name": "Northwest African American Museum",
+    "lat": 47.589118847222224,
+    "lon": -122.30183332222221
+  },
+  "158721036": {
+    "name": "Cal Anderson Park",
+    "lat": 47.61736622,
+    "lon": -122.31900753999999
+  },
+  "159118102": {
+    "name": "Seven Hills Park",
+    "lat": 47.61792018571429,
+    "lon": -122.31182198571427
+  },
+  "159118103": {
+    "name": "Williams Place",
+    "lat": 47.61977559166667,
+    "lon": -122.31332537499998
+  },
+  "159261821": {
+    "name": "Lakewood Playground",
+    "lat": 47.55893132,
+    "lon": -122.27019135999998
+  },
+  "159261992": {
+    "name": "Columbia Park",
+    "lat": 47.559628223076935,
+    "lon": -122.28736407692307
+  },
+  "159483662": {
+    "name": "Golden Gardens Park",
+    "lat": 47.691150407462686,
+    "lon": -122.40250178507463
+  },
+  "160544279": {
+    "name": "Clarence S. \"Hec\" Edmundson Pavilion",
+    "lat": 47.652253267272734,
+    "lon": -122.30229412727276
+  },
+  "160544280": {
+    "name": "Northlake Park",
+    "lat": 47.65437152,
+    "lon": -122.32093060000003
+  },
+  "160545994": {
+    "name": "Burke Museum of Natural History and Culture",
+    "lat": 47.66027999285715,
+    "lon": -122.31142626428573
+  },
+  "160548892": {
+    "name": "Windermere Park",
+    "lat": 47.66524077692308,
+    "lon": -122.26747876153846
+  },
+  "160980417": {
+    "name": "Genesee Dog Park",
+    "lat": 47.56344039791668,
+    "lon": -122.27662409375
+  },
+  "161084248": {
+    "name": "Dr. Blanche Lavizzo Park",
+    "lat": 47.6002093909091,
+    "lon": -122.30420411363635
+  },
+  "161084252": {
+    "name": "Flo Ware Park",
+    "lat": 47.59948845555556,
+    "lon": -122.2959763222222
+  },
+  "161365561": {
+    "name": "Greenwood Park",
+    "lat": 47.69293652,
+    "lon": -122.35048859999999
+  },
+  "161502322": {
+    "name": "Bryant Park",
+    "lat": 47.675394571428576,
+    "lon": -122.28406212857143
+  },
+  "161587729": {
+    "name": "Chihuly Garden and Glass",
+    "lat": 47.620532855357155,
+    "lon": -122.34997348392857
+  },
+  "161587742": {
+    "name": "MoPOP: Museum of Pop Culture",
+    "lat": 47.62148822878788,
+    "lon": -122.34824993333336
+  },
+  "166768711": {
+    "name": "Pigeon Point Park",
+    "lat": 47.562743426666664,
+    "lon": -122.35783526333334
+  },
+  "166768713": {
+    "name": "Puget Park",
+    "lat": 47.5578984734375,
+    "lon": -122.35596847343747
+  },
+  "166768715": {
+    "name": "Riverview Playfield",
+    "lat": 47.53843781304347,
+    "lon": -122.34842611304349
+  },
+  "169907554": {
+    "name": "Cowen Park",
+    "lat": 47.67225854210526,
+    "lon": -122.31265319473687
+  },
+  "171725296": {
+    "name": "Thomas Street Mini Park",
+    "lat": 47.6209780888889,
+    "lon": -122.32636862222222
+  },
+  "172886452": {
+    "name": "Anchor Park",
+    "lat": 47.59530244,
+    "lon": -122.38751930000001
+  },
+  "174195377": {
+    "name": "Llandover Woods",
+    "lat": 47.73324806216217,
+    "lon": -122.36297861891893
+  },
+  "174692555": {
+    "name": "Occidental Square",
+    "lat": 47.60046728333333,
+    "lon": -122.33301216666668
+  },
+  "174696307": {
+    "name": "High Point Commons Park",
+    "lat": 47.545416983333325,
+    "lon": -122.37206375
+  },
+  "174856218": {
+    "name": "Seattle Times Park",
+    "lat": 47.61941862,
+    "lon": -122.3348747
+  },
+  "184539622": {
+    "name": "South Charles Street End",
+    "lat": 47.594582849999995,
+    "lon": -122.28714655
+  },
+  "184539827": {
+    "name": "South Dearborn Street End",
+    "lat": 47.5957478,
+    "lon": -122.28685808333331
+  },
+  "184543442": {
+    "name": "South Norman Street End",
+    "lat": 47.59338724285714,
+    "lon": -122.2873398142857
+  },
+  "184543513": {
+    "name": "South Judkins Street End",
+    "lat": 47.5922463,
+    "lon": -122.28686697999999
+  },
+  "184544066": {
+    "name": "South Atlantic Street End",
+    "lat": 47.5887835,
+    "lon": -122.28541759999997
+  },
+  "184544522": {
+    "name": "South Massachusetts Street End",
+    "lat": 47.58765116666667,
+    "lon": -122.28564345
+  },
+  "184620777": {
+    "name": "South King Street End",
+    "lat": 47.59793248333333,
+    "lon": -122.28639134999999
+  },
+  "185035547": {
+    "name": "South Jackson Street End",
+    "lat": 47.599087614285715,
+    "lon": -122.28588892857144
+  },
+  "187681267": {
+    "name": "Nohala Park",
+    "lat": 47.6494275,
+    "lon": -122.33911330000001
+  },
+  "191328701": {
+    "name": "Wallingford Steps",
+    "lat": 47.64705894117647,
+    "lon": -122.33637942352941
+  },
+  "191328703": {
+    "name": "Great Mound",
+    "lat": 47.645321175,
+    "lon": -122.3363613625
+  },
+  "193501402": {
+    "name": "Shaffer Park",
+    "lat": 47.54295826,
+    "lon": -122.29411487999998
+  },
+  "201065094": {
+    "name": "Lotus",
+    "lat": 47.628127000000006,
+    "lon": -122.3362666
+  },
+  "201065097": {
+    "name": "Swiftsure (LV-83)",
+    "lat": 47.62819112857143,
+    "lon": -122.33667655238098
+  },
+  "201065241": {
+    "name": "Arthur Foss",
+    "lat": 47.6281929631579,
+    "lon": -122.33685712631576
+  },
+  "201065242": {
+    "name": "Virginia V",
+    "lat": 47.628210938095236,
+    "lon": -122.3370164047619
+  },
+  "206623612": {
+    "name": "Starbucks Reserve Roastery and Tasting Room",
+    "lat": 47.614052785714286,
+    "lon": -122.32821759999999
+  },
+  "215647949": {
+    "name": "Cayton Corner Park",
+    "lat": 47.616421349999996,
+    "lon": -122.307677325
+  },
+  "216282720": {
+    "name": "Arcade Plaza",
+    "lat": 47.61865396666667,
+    "lon": -122.32532161666666
+  },
+  "220404009": {
+    "name": "Woodland Park Off-Leash Dog Park",
+    "lat": 47.67018807142857,
+    "lon": -122.34426537142859
+  },
+  "223783257": {
+    "name": "Neukom Vivarium",
+    "lat": 47.615851344444444,
+    "lon": -122.3542674
+  },
+  "224310145": {
+    "name": "View Terrace",
+    "lat": 47.661104566666666,
+    "lon": -122.35678297777778
+  },
+  "226194517": {
+    "name": "Living Computers: Museum + Labs",
+    "lat": 47.58248595714286,
+    "lon": -122.33472134285715
+  },
+  "230598416": {
+    "name": "Mt. Baker Ridge Viewpoint",
+    "lat": 47.59003353999999,
+    "lon": -122.29263064000001
+  },
+  "231761354": {
+    "name": "Atlantic Street Park",
+    "lat": 47.58913626428573,
+    "lon": -122.30561835714286
+  },
+  "231761355": {
+    "name": "Benvenuto Viewpoint",
+    "lat": 47.590015755319165,
+    "lon": -122.30291289361696
+  },
+  "231761360": {
+    "name": "Future Sister City Park",
+    "lat": 47.589781876086946,
+    "lon": -122.30940501739131
+  },
+  "231761365": {
+    "name": "Judge Charles M. Stokes Overlook",
+    "lat": 47.59162056363637,
+    "lon": -122.30682630909091
+  },
+  "231761377": {
+    "name": "Jimi Hendrix Park",
+    "lat": 47.58893572499999,
+    "lon": -122.30106009166666
+  },
+  "232078505": {
+    "name": "Arne Gillam Courtyard",
+    "lat": 47.610176821428574,
+    "lon": -122.33269256428572
+  },
+  "233293332": {
+    "name": "Log House Museum",
+    "lat": 47.57760424,
+    "lon": -122.41093084000002
+  },
+  "234053991": {
+    "name": "Boylston Place",
+    "lat": 47.60992162000001,
+    "lon": -122.32102336
+  },
+  "234054122": {
+    "name": "Blaine Place",
+    "lat": 47.62679729999999,
+    "lon": -122.36415160454548
+  },
+  "234058699": {
+    "name": "Eastmont Place",
+    "lat": 47.637726657142856,
+    "lon": -122.40557474285713
+  },
+  "234436233": {
+    "name": "Bell Harbor Conference Center",
+    "lat": 47.611122026923084,
+    "lon": -122.34927880384613
+  },
+  "234810726": {
+    "name": "Argosy Cruises",
+    "lat": 47.6050749,
+    "lon": -122.34035156999998
+  },
+  "235385488": {
+    "name": "Chinese Grand Pavilion",
+    "lat": 47.59859742,
+    "lon": -122.32553897333332
+  },
+  "237315576": {
+    "name": "Fauntleroy Place",
+    "lat": 47.56269538,
+    "lon": -122.37982808000001
+  },
+  "237315577": {
+    "name": "Northwest 60th Street Viewpoint",
+    "lat": 47.67229134285714,
+    "lon": -122.40622344285715
+  },
+  "237315578": {
+    "name": "Prefontaine Place",
+    "lat": 47.60183824285714,
+    "lon": -122.33086427142858
+  },
+  "237316121": {
+    "name": "MV Skansonia",
+    "lat": 47.65276877272726,
+    "lon": -122.32627259090913
+  },
+  "238131125": {
+    "name": "Terminal 18 Park",
+    "lat": 47.572854878571434,
+    "lon": -122.35423706428574
+  },
+  "243991064": {
+    "name": "Lake Union Park Spraypark",
+    "lat": 47.626475566666656,
+    "lon": -122.33700268666666
+  },
+  "244502181": {
+    "name": "Alice Ball Park",
+    "lat": 47.688087780000004,
+    "lon": -122.3549982
+  },
+  "253552729": {
+    "name": "The Quad",
+    "lat": 47.657218900000004,
+    "lon": -122.30745298
+  },
+  "253553517": {
+    "name": "Denny Yard",
+    "lat": 47.6574954090909,
+    "lon": -122.30891969090906
+  },
+  "253553527": {
+    "name": "Parrington Lawn",
+    "lat": 47.65789874583333,
+    "lon": -122.31073426249998
+  },
+  "254046496": {
+    "name": "Adjacent, Against, Upon",
+    "lat": 47.619436528571434,
+    "lon": -122.36181192857144
+  },
+  "254452876": {
+    "name": "Rose Garden",
+    "lat": 47.62247318,
+    "lon": -122.36626922
+  },
+  "264848182": {
+    "name": "Waterway 18 Park",
+    "lat": 47.649274362499995,
+    "lon": -122.331542825
+  },
+  "288696980": {
+    "name": "West Marina Place",
+    "lat": 47.631562322222216,
+    "lon": -122.38747171111112
+  },
+  "290617734": {
+    "name": "Maple Leaf Reservoir Park",
+    "lat": 47.69073851,
+    "lon": -122.31519836499997
+  },
+  "292125577": {
+    "name": "Streissguth Gardens",
+    "lat": 47.63469384,
+    "lon": -122.32090267999999
+  },
+  "292807103": {
+    "name": "Waterway 1",
+    "lat": 47.65355844,
+    "lon": -122.2807143
+  },
+  "292961531": {
+    "name": "Hiram M. Chittenden Locks",
+    "lat": 47.666142518644065,
+    "lon": -122.39685590677965
+  },
+  "293126299": {
+    "name": "Northeast 43rd Street End",
+    "lat": 47.65936704000001,
+    "lon": -122.26853616000001
+  },
+  "293941088": {
+    "name": "East Boston Street End",
+    "lat": 47.638290514285714,
+    "lon": -122.32949610000001
+  },
+  "293941212": {
+    "name": "East Louisa Street End",
+    "lat": 47.64200822222222,
+    "lon": -122.3295843277778
+  },
+  "293941439": {
+    "name": "East Allison Street End",
+    "lat": 47.64923431666667,
+    "lon": -122.32501221666668
+  },
+  "293941621": {
+    "name": "East Shelby Street End",
+    "lat": 47.646935739999996,
+    "lon": -122.31632534
+  },
+  "293941656": {
+    "name": "East Hamlin Street End",
+    "lat": 47.64563246,
+    "lon": -122.31630458
+  },
+  "293941671": {
+    "name": "East Edgar Street End",
+    "lat": 47.64446446,
+    "lon": -122.31647740000001
+  },
+  "294394890": {
+    "name": "37th Avenue East Street End",
+    "lat": 47.642722185714284,
+    "lon": -122.28529227142857
+  },
+  "294466964": {
+    "name": "East Lee Street End",
+    "lat": 47.6309507,
+    "lon": -122.27714786666667
+  },
+  "294466965": {
+    "name": "East Highland Drive Street End",
+    "lat": 47.6297416,
+    "lon": -122.27857044
+  },
+  "294466966": {
+    "name": "East Prospect Street End",
+    "lat": 47.62853958333333,
+    "lon": -122.2791785
+  },
+  "294467345": {
+    "name": "East Olive Lane Street End",
+    "lat": 47.616461220000005,
+    "lon": -122.28020038
+  },
+  "294469891": {
+    "name": "South Main Street End",
+    "lat": 47.60012742000001,
+    "lon": -122.28552067999999
+  },
+  "294469893": {
+    "name": "South Irving Street End",
+    "lat": 47.59108395,
+    "lon": -122.2866335125
+  },
+  "294615040": {
+    "name": "South Holgate Street End",
+    "lat": 47.58649090000001,
+    "lon": -122.28594192
+  },
+  "294615041": {
+    "name": "South Eddy Street End",
+    "lat": 47.544947300000004,
+    "lon": -122.25754107999998
+  },
+  "294615043": {
+    "name": "South Brighton Street End",
+    "lat": 47.5415313,
+    "lon": -122.26047034000001
+  },
+  "294615046": {
+    "name": "South Willow Street End",
+    "lat": 47.54067035714286,
+    "lon": -122.26170594285713
+  },
+  "294623935": {
+    "name": "South Carver Street End",
+    "lat": 47.51940376,
+    "lon": -122.25714005999998
+  },
+  "294624242": {
+    "name": "72nd Avenue South Street End",
+    "lat": 47.51157541999999,
+    "lon": -122.24382756
+  },
+  "294859341": {
+    "name": "East Mercer Street End",
+    "lat": 47.62538046363637,
+    "lon": -122.28218170909093
+  },
+  "294897971": {
+    "name": "Hyde Place",
+    "lat": 47.63229485,
+    "lon": -122.28287649999999
+  },
+  "294898046": {
+    "name": "Lambert Place",
+    "lat": 47.632076600000005,
+    "lon": -122.28391385
+  },
+  "294906444": {
+    "name": "Stevens Place",
+    "lat": 47.619432375,
+    "lon": -122.2835374
+  },
+  "295044076": {
+    "name": "Magnolia Manor Dog Park",
+    "lat": 47.6516254111111,
+    "lon": -122.39236452592594
+  },
+  "295167412": {
+    "name": "Blue Ridge Park",
+    "lat": 47.701704283333335,
+    "lon": -122.39049935000001
+  },
+  "295171479": {
+    "name": "Blue Ridge Places",
+    "lat": 47.703219610526325,
+    "lon": -122.38121478947366
+  },
+  "295288784": {
+    "name": "Troll's Knoll Park",
+    "lat": 47.65158314705882,
+    "lon": -122.3474325117647
+  },
+  "295867553": {
+    "name": "Lakeview Place",
+    "lat": 47.62931071666667,
+    "lon": -122.32566959999998
+  },
+  "295867977": {
+    "name": "Saint Mark's Greenbelt",
+    "lat": 47.63112081818183,
+    "lon": -122.32168279090907
+  },
+  "295939766": {
+    "name": "Chinatown Gate",
+    "lat": 47.59836653636364,
+    "lon": -122.3273694
+  },
+  "296114452": {
+    "name": "Fritz Hedges Waterway Park",
+    "lat": 47.652163234615394,
+    "lon": -122.31635044999999
+  },
+  "296586210": {
+    "name": "Judy Fey Park",
+    "lat": 47.54811655555555,
+    "lon": -122.37283062222224
+  },
+  "296586211": {
+    "name": "High Point Pond Park",
+    "lat": 47.549057225,
+    "lon": -122.36990301666664
+  },
+  "296586212": {
+    "name": "Viewpoint Park",
+    "lat": 47.54876577142857,
+    "lon": -122.37146206428572
+  },
+  "296586214": {
+    "name": "Bataan Park",
+    "lat": 47.546295400000005,
+    "lon": -122.36810556249999
+  },
+  "296586215": {
+    "name": "Triangle Park",
+    "lat": 47.54299702,
+    "lon": -122.36994616
+  },
+  "296586217": {
+    "name": "Mulberry Park",
+    "lat": 47.54319376666667,
+    "lon": -122.37268493333335
+  },
+  "296586218": {
+    "name": "School House Park",
+    "lat": 47.54250131428571,
+    "lon": -122.37384527142858
+  },
+  "297582982": {
+    "name": "Tribal Elder Bernice White Place",
+    "lat": 47.571499635294124,
+    "lon": -122.35532095294117
+  },
+  "301417613": {
+    "name": "Waterway 15",
+    "lat": 47.653559175000005,
+    "lon": -122.32452389375001
+  },
+  "305589496": {
+    "name": "Thorndyke Park",
+    "lat": 47.634783918518515,
+    "lon": -122.39028117407406
+  },
+  "305635843": {
+    "name": "Julia Lee's Park",
+    "lat": 47.6223370625,
+    "lon": -122.29655818750001
+  },
+  "306759590": {
+    "name": "West Gateway Park",
+    "lat": 47.63513952,
+    "lon": -122.30183316
+  },
+  "306759592": {
+    "name": "East Gateway Park",
+    "lat": 47.63505528,
+    "lon": -122.3012935
+  },
+  "307654911": {
+    "name": "Park Home Circle",
+    "lat": 47.670038805,
+    "lon": -122.30547305500002
+  },
+  "311485753": {
+    "name": "Grieg Garden",
+    "lat": 47.656317237500005,
+    "lon": -122.3066527375
+  },
+  "315560735": {
+    "name": "Garden Taft",
+    "lat": 47.510322280000004,
+    "lon": -122.24231841999999
+  },
+  "326456948": {
+    "name": "Beacon Place",
+    "lat": 47.59610778,
+    "lon": -122.31871277999998
+  },
+  "326784275": {
+    "name": "Waldo Woods",
+    "lat": 47.690729479999995,
+    "lon": -122.31258302
+  },
+  "328488998": {
+    "name": "Waterway 22",
+    "lat": 47.6480169,
+    "lon": -122.34261394
+  },
+  "328507173": {
+    "name": "Duwamish",
+    "lat": 47.6281837047619,
+    "lon": -122.33652874761904
+  },
+  "330293938": {
+    "name": "Discovery",
+    "lat": 47.62812382666666,
+    "lon": -122.3363878133333
+  },
+  "332305533": {
+    "name": "Greenwood Triangle",
+    "lat": 47.668996177777785,
+    "lon": -122.36103918333336
+  },
+  "332494497": {
+    "name": "Ruby Chow Park",
+    "lat": 47.546383276923066,
+    "lon": -122.31488009999998
+  },
+  "332591271": {
+    "name": "Prefontaine Fountain",
+    "lat": 47.60186325294119,
+    "lon": -122.33083633529411
+  },
+  "332946377": {
+    "name": "Naramore Fountain",
+    "lat": 47.608282176470595,
+    "lon": -122.33161919999999
+  },
+  "333322602": {
+    "name": "McClellan Place",
+    "lat": 47.578727642857146,
+    "lon": -122.31192141428572
+  },
+  "333879940": {
+    "name": "The Fin Project: From Swords into Plowshares",
+    "lat": 47.681588122222216,
+    "lon": -122.24706962222223
+  },
+  "333892011": {
+    "name": "Highland Place",
+    "lat": 47.62965082857143,
+    "lon": -122.35549188571432
+  },
+  "334087229": {
+    "name": "Crown Hill Park",
+    "lat": 47.696738149999995,
+    "lon": -122.37351511666667
+  },
+  "334438372": {
+    "name": "Perkins Place",
+    "lat": 47.68134585,
+    "lon": -122.3155892
+  },
+  "335080503": {
+    "name": "Eastlake Triangle",
+    "lat": 47.62816998333333,
+    "lon": -122.32907211666667
+  },
+  "335772130": {
+    "name": "Puget Ridge Edible Park",
+    "lat": 47.55395768,
+    "lon": -122.35782236
+  },
+  "336930534": {
+    "name": "York Playground",
+    "lat": 47.572785100000004,
+    "lon": -122.29083146999999
+  },
+  "337082891": {
+    "name": "51st Avenue Northeast Street End",
+    "lat": 47.65582886,
+    "lon": -122.27204692000001
+  },
+  "338550574": {
+    "name": "12th West and West Howe Park",
+    "lat": 47.63655068124999,
+    "lon": -122.37340806249999
+  },
+  "338886326": {
+    "name": "Urban Triangle Park",
+    "lat": 47.616913939999996,
+    "lon": -122.33791097999999
+  },
+  "339588867": {
+    "name": "Arroyos Natural Area",
+    "lat": 47.50642099545455,
+    "lon": -122.38945812727273
+  },
+  "339596621": {
+    "name": "Morgan Junction Park",
+    "lat": 47.545789575,
+    "lon": -122.38751540000001
+  },
+  "340153765": {
+    "name": "Untitled",
+    "lat": 47.6187423882353,
+    "lon": -122.34793948235296
+  },
+  "340196934": {
+    "name": "Cove Park",
+    "lat": 47.52339856428572,
+    "lon": -122.39365716428573
+  },
+  "343110088": {
+    "name": "NOAA Bridges",
+    "lat": 47.6853195,
+    "lon": -122.2490268
+  },
+  "343110089": {
+    "name": "A Sound Garden",
+    "lat": 47.68542766666667,
+    "lon": -122.24990262000001
+  },
+  "343111021": {
+    "name": "Berth Haven",
+    "lat": 47.68688242,
+    "lon": -122.25209183
+  },
+  "343111023": {
+    "name": "Viewpoint Terrace",
+    "lat": 47.68798483333333,
+    "lon": -122.25615901666667
+  },
+  "343111024": {
+    "name": "Knoll for NOAA",
+    "lat": 47.68684918499999,
+    "lon": -122.25878002999998
+  },
+  "343523307": {
+    "name": "Waterway 21",
+    "lat": 47.64735623999999,
+    "lon": -122.33982504666665
+  },
+  "344338904": {
+    "name": "Montana Circle",
+    "lat": 47.661705413636355,
+    "lon": -122.41546964545454
+  },
+  "344614207": {
+    "name": "28th Avenue Northwest Street End",
+    "lat": 47.66740847142858,
+    "lon": -122.39280192857144
+  },
+  "346054754": {
+    "name": "Magnolia Manor Park",
+    "lat": 47.651485667272716,
+    "lon": -122.391798
+  },
+  "346101057": {
+    "name": "Pathfinder Garden",
+    "lat": 47.56203862727272,
+    "lon": -122.35795915454547
+  },
+  "346363333": {
+    "name": "Westcrest Small Dog Park",
+    "lat": 47.523175359999996,
+    "lon": -122.34283221999999
+  },
+  "346363335": {
+    "name": "Westcrest Dog Park",
+    "lat": 47.52407609642857,
+    "lon": -122.34171147142858
+  },
+  "346947703": {
+    "name": "Public Waterway 17",
+    "lat": 47.65150167692308,
+    "lon": -122.3291034923077
+  },
+  "347335100": {
+    "name": "Ravenna Park Triangle",
+    "lat": 47.66819814,
+    "lon": -122.30358124
+  },
+  "347497606": {
+    "name": "Ballard Centennial Bell Tower",
+    "lat": 47.66785765,
+    "lon": -122.3849311875
+  },
+  "349614943": {
+    "name": "University Lake Shore Place",
+    "lat": 47.719060060000004,
+    "lon": -122.28010511999999
+  },
+  "349918382": {
+    "name": "34th Avenue Northwest Viewpoint",
+    "lat": 47.66731895384615,
+    "lon": -122.40095256923078
+  },
+  "352673556": {
+    "name": "Cascade Place",
+    "lat": 47.666181771428576,
+    "lon": -122.35813188571429
+  },
+  "353959142": {
+    "name": "South Seattle College Arboretum",
+    "lat": 47.55139005,
+    "lon": -122.35315466875002
+  },
+  "358944270": {
+    "name": "Highland Drive Parkway",
+    "lat": 47.629835379999996,
+    "lon": -122.35293909000002
+  },
+  "360433186": {
+    "name": "Kirke Park",
+    "lat": 47.68050575714286,
+    "lon": -122.36804428571428
+  },
+  "360578762": {
+    "name": "Sandel Park",
+    "lat": 47.69529612,
+    "lon": -122.35882278000001
+  },
+  "361291224": {
+    "name": "Dunn Gardens",
+    "lat": 47.72745736,
+    "lon": -122.36491558
+  },
+  "363207055": {
+    "name": "t\u0313a\u0142t\u0313a\u0142ucid Park and Shoreline Habitat",
+    "lat": 47.53347703181817,
+    "lon": -122.32278060454546
+  },
+  "363400641": {
+    "name": "Pike Place Market",
+    "lat": 47.60989681818182,
+    "lon": -122.34275907727275
+  },
+  "365742481": {
+    "name": "Interbay Stadium",
+    "lat": 47.6470571375,
+    "lon": -122.37866913750001
+  },
+  "366749670": {
+    "name": "Katharine Colman Triangle",
+    "lat": 47.520939575,
+    "lon": -122.387776175
+  },
+  "368569221": {
+    "name": "University Street Parklet",
+    "lat": 47.61288471176471,
+    "lon": -122.32377122352943
+  },
+  "369404461": {
+    "name": "The Glade Sculpture",
+    "lat": 47.648373236842104,
+    "lon": -122.30616611578948
+  },
+  "374471012": {
+    "name": "Peace Garden",
+    "lat": 47.61996047777778,
+    "lon": -122.34980636111112
+  },
+  "385181766": {
+    "name": "East Pine Street End",
+    "lat": 47.61520046,
+    "lon": -122.28112078
+  },
+  "392852793": {
+    "name": "Oak Family",
+    "lat": 47.640354044999995,
+    "lon": -122.295634735
+  },
+  "392857998": {
+    "name": "Asiatic Maples",
+    "lat": 47.63665654800001,
+    "lon": -122.295486812
+  },
+  "392858000": {
+    "name": "Birches & Poplars",
+    "lat": 47.632457720000005,
+    "lon": -122.29532566666668
+  },
+  "392858002": {
+    "name": "Camellia Family",
+    "lat": 47.631985362500004,
+    "lon": -122.2938891125
+  },
+  "392858004": {
+    "name": "Hybrid Rhododendrons",
+    "lat": 47.635712147368416,
+    "lon": -122.29632694210525
+  },
+  "392858006": {
+    "name": "Japanese Maples",
+    "lat": 47.63745298095237,
+    "lon": -122.29522190238094
+  },
+  "392858009": {
+    "name": "Legumes",
+    "lat": 47.633431895652166,
+    "lon": -122.2942866217391
+  },
+  "392858011": {
+    "name": "Lindens",
+    "lat": 47.64143313125,
+    "lon": -122.29444874375002
+  },
+  "392858014": {
+    "name": "Magnolia Family",
+    "lat": 47.63556235714287,
+    "lon": -122.29558471785715
+  },
+  "392858016": {
+    "name": "Meadow",
+    "lat": 47.63737530000001,
+    "lon": -122.29419777916667
+  },
+  "392858018": {
+    "name": "Mountain Ashes",
+    "lat": 47.635123519230774,
+    "lon": -122.2946314153846
+  },
+  "392858020": {
+    "name": "Nursery",
+    "lat": 47.636831521428576,
+    "lon": -122.29410630714287
+  },
+  "392858022": {
+    "name": "Pacific Connections Garden",
+    "lat": 47.62976486666666,
+    "lon": -122.29488864666665
+  },
+  "392858024": {
+    "name": "Pinetum",
+    "lat": 47.63894766666667,
+    "lon": -122.29795441250002
+  },
+  "392858027": {
+    "name": "Rhododendron Glen",
+    "lat": 47.6326332631579,
+    "lon": -122.29433218947368
+  },
+  "392858029": {
+    "name": "Viburnums",
+    "lat": 47.635786979310346,
+    "lon": -122.29793013103448
+  },
+  "392858031": {
+    "name": "Walnut Family",
+    "lat": 47.63667772972972,
+    "lon": -122.29786731351352
+  },
+  "392858034": {
+    "name": "Witt Winter Garden",
+    "lat": 47.63821741153846,
+    "lon": -122.29568942307691
+  },
+  "392858036": {
+    "name": "Witch Hazel Family",
+    "lat": 47.6310559,
+    "lon": -122.29455417499999
+  },
+  "392858038": {
+    "name": "Woodland Garden",
+    "lat": 47.637856849999984,
+    "lon": -122.29587440499999
+  },
+  "392859083": {
+    "name": "Hollies",
+    "lat": 47.63272596875,
+    "lon": -122.29799493124999
+  },
+  "394282417": {
+    "name": "Neototems Children's Garden",
+    "lat": 47.620250127272726,
+    "lon": -122.35173777272729
+  },
+  "394955903": {
+    "name": "Pacific Science Center",
+    "lat": 47.619564719047624,
+    "lon": -122.35124744920638
+  },
+  "394955904": {
+    "name": "Poetry Garden",
+    "lat": 47.62146499444445,
+    "lon": -122.35174343333334
+  },
+  "395691258": {
+    "name": "t\u0313a\u0142t\u0313a\u0142ucid Park and Shoreline Habitat",
+    "lat": 47.567490879999994,
+    "lon": -122.35169839
+  },
+  "396331302": {
+    "name": "Magnuson Community Garden",
+    "lat": 47.68278512285714,
+    "lon": -122.2591409914286
+  },
+  "396606870": {
+    "name": "The Carousel",
+    "lat": 47.606174325,
+    "lon": -122.34189947499999
+  },
+  "397508979": {
+    "name": "Broadway Hill Park",
+    "lat": 47.623373335714284,
+    "lon": -122.31855945
+  },
+  "398955977": {
+    "name": "Rufus Dog Park",
+    "lat": 47.61572571999999,
+    "lon": -122.33989537000002
+  },
+  "399771534": {
+    "name": "Terminal 102 Park",
+    "lat": 47.569719414285714,
+    "lon": -122.34859810357143
+  },
+  "399781440": {
+    "name": "Terminal 115 Park",
+    "lat": 47.54170596666666,
+    "lon": -122.33522576666665
+  },
+  "400331208": {
+    "name": "sb\u0259q\u0313\u02b7a\u0294 Park and Shoreline Habitat",
+    "lat": 47.56045163000001,
+    "lon": -122.34399661500001
+  },
+  "403536560": {
+    "name": "Husky Ballpark",
+    "lat": 47.654645705882345,
+    "lon": -122.29870934705883
+  },
+  "409581625": {
+    "name": "Vintners Park",
+    "lat": 47.64841795,
+    "lon": -122.35305641666667
+  },
+  "409613877": {
+    "name": "Railroad Park",
+    "lat": 47.641107266666666,
+    "lon": -122.34228476666665
+  },
+  "414459246": {
+    "name": "12th Avenue Square Park",
+    "lat": 47.607308966666665,
+    "lon": -122.31653834999999
+  },
+  "414515054": {
+    "name": "Fairmount Park",
+    "lat": 47.579654531578946,
+    "lon": -122.38229701578943
+  },
+  "416332889": {
+    "name": "Park Bench",
+    "lat": 47.6833534,
+    "lon": -122.28786930000001
+  },
+  "419546353": {
+    "name": "Fletcher Place",
+    "lat": 47.519118416666664,
+    "lon": -122.26152939999999
+  },
+  "419546359": {
+    "name": "Wedgwood Square",
+    "lat": 47.68819083030303,
+    "lon": -122.29477464848486
+  },
+  "426372578": {
+    "name": "James \"Cisco\" Morris Biodiversity Garden",
+    "lat": 47.60987374500001,
+    "lon": -122.31986310000002
+  },
+  "432237209": {
+    "name": "Fauntleroy Creek Ravine",
+    "lat": 47.52244820999999,
+    "lon": -122.39227874999999
+  },
+  "432313075": {
+    "name": "Seattle Glassblowing Studio",
+    "lat": 47.61559001428571,
+    "lon": -122.34295392857143
+  },
+  "435072855": {
+    "name": "Oak Tree Garden",
+    "lat": 47.7116493,
+    "lon": -122.3697128
+  },
+  "435072856": {
+    "name": "Prairie-Style Garden",
+    "lat": 47.71171664285714,
+    "lon": -122.36966275714285
+  },
+  "435072857": {
+    "name": "Butterfly Hill Garden",
+    "lat": 47.71172624285714,
+    "lon": -122.36938180000001
+  },
+  "435072858": {
+    "name": "Rain Garden",
+    "lat": 47.7117723125,
+    "lon": -122.36922103750001
+  },
+  "435072859": {
+    "name": "Shady Woodland Garden",
+    "lat": 47.71168945,
+    "lon": -122.36909217499999
+  },
+  "435072860": {
+    "name": "Ethnobotany Garden",
+    "lat": 47.7118114125,
+    "lon": -122.36914101250001
+  },
+  "435072863": {
+    "name": "Concrete Wall Garden",
+    "lat": 47.711782425,
+    "lon": -122.36882487500002
+  },
+  "435072864": {
+    "name": "Split-Rail Fence Garden",
+    "lat": 47.71189020000001,
+    "lon": -122.36888759000001
+  },
+  "435072865": {
+    "name": "North Garden",
+    "lat": 47.711868100000004,
+    "lon": -122.36902460833333
+  },
+  "435072866": {
+    "name": "Carkeek Park Demonstration Garden",
+    "lat": 47.71178555789474,
+    "lon": -122.36919368947366
+  },
+  "435198163": {
+    "name": "Puget Boulevard Commons",
+    "lat": 47.555119545454545,
+    "lon": -122.3644935909091
+  },
+  "435543040": {
+    "name": "Kingfisher Natural Area",
+    "lat": 47.703079137096786,
+    "lon": -122.30961889032257
+  },
+  "436763068": {
+    "name": "Northwest Seaport",
+    "lat": 47.628174333333334,
+    "lon": -122.33680759999999
+  },
+  "438457488": {
+    "name": "National Nordic Museum",
+    "lat": 47.66831668333333,
+    "lon": -122.39156591666666
+  },
+  "445746567": {
+    "name": "Fairview Avenue East Street End",
+    "lat": 47.6433525,
+    "lon": -122.32860494285714
+  },
+  "445746568": {
+    "name": "Roanoke Street Mini Park",
+    "lat": 47.64316305555556,
+    "lon": -122.32887609999999
+  },
+  "457384927": {
+    "name": "Museum of Museums",
+    "lat": 47.61025421666667,
+    "lon": -122.32105923333334
+  },
+  "460084687": {
+    "name": "Growing Vine Street Headwaters Park",
+    "lat": 47.61822864444444,
+    "lon": -122.34620685555556
+  },
+  "460084962": {
+    "name": "Bell Street Park",
+    "lat": 47.614026816666666,
+    "lon": -122.34559841666668
+  },
+  "460348213": {
+    "name": "Georgetown Steam Plant",
+    "lat": 47.54289247777777,
+    "lon": -122.31626021111111
+  },
+  "462865832": {
+    "name": "Waterway 23",
+    "lat": 47.64868330000001,
+    "lon": -122.34678260000001
+  },
+  "468533249": {
+    "name": "Park at Emerson",
+    "lat": 47.6558718,
+    "lon": -122.38383361999999
+  },
+  "468637824": {
+    "name": "Sherwood dog area",
+    "lat": 47.7325585,
+    "lon": -122.29438549999999
+  },
+  "471188213": {
+    "name": "Triangle Park",
+    "lat": 47.54168524166667,
+    "lon": -122.29338299166666
+  },
+  "473252197": {
+    "name": "Youngstown Flats Dog Run Feature",
+    "lat": 47.5674494,
+    "lon": -122.3651312
+  },
+  "481142081": {
+    "name": "Blue Dog Pond - Dog Park",
+    "lat": 47.589042428571425,
+    "lon": -122.2985863142857
+  },
+  "486896126": {
+    "name": "Argosy Cruises - Lake Union",
+    "lat": 47.62873277999999,
+    "lon": -122.33951166
+  },
+  "490021673": {
+    "name": "Dallas Avenue South Triangle",
+    "lat": 47.529885075,
+    "lon": -122.320078225
+  },
+  "490751855": {
+    "name": "Goodfellow Grove",
+    "lat": 47.65758313809524,
+    "lon": -122.29101210000003
+  },
+  "490766132": {
+    "name": "Wingard Court North Street End",
+    "lat": 47.7276251,
+    "lon": -122.35145130000001
+  },
+  "498701167": {
+    "name": "Vista Park",
+    "lat": 47.56403872,
+    "lon": -122.29861840000001
+  },
+  "521393270": {
+    "name": "Yesler Terrace Park",
+    "lat": 47.601279514285714,
+    "lon": -122.32176633928573
+  },
+  "521395923": {
+    "name": "Yesler Terrace Pocket Park",
+    "lat": 47.60250522,
+    "lon": -122.3201683
+  },
+  "546458989": {
+    "name": "West Mercer Stairs Park",
+    "lat": 47.624602183333344,
+    "lon": -122.36426467499997
+  },
+  "557154129": {
+    "name": "David Rodgers Park",
+    "lat": 47.64425833157894,
+    "lon": -122.35949391578949
+  },
+  "578668141": {
+    "name": "Atlantic Condominiums Urban Garden",
+    "lat": 47.58996585,
+    "lon": -122.3183486
+  },
+  "593139832": {
+    "name": "Green Plate Special Community Garden",
+    "lat": 47.58401649,
+    "lon": -122.30071585000003
+  },
+  "603140563": {
+    "name": "West Seattle Bee Garden",
+    "lat": 47.546562699999996,
+    "lon": -122.37269738
+  },
+  "607816885": {
+    "name": "Westcrest Park Viewpoint",
+    "lat": 47.523071,
+    "lon": -122.34341425
+  },
+  "681314682": {
+    "name": "Coast Guard Museum Northwest",
+    "lat": 47.590606429999994,
+    "lon": -122.33775304000001
+  },
+  "718760470": {
+    "name": "Union Bay",
+    "lat": 47.64269866,
+    "lon": -122.28944278000002
+  },
+  "737732644": {
+    "name": "Seattle Children's Playgarden",
+    "lat": 47.587249709999995,
+    "lon": -122.30166271
+  },
+  "742068086": {
+    "name": "Three Car Park",
+    "lat": 47.618588525,
+    "lon": -122.32538955
+  },
+  "764113867": {
+    "name": "T\u1ed5 \u0110\u00ecnh Vi\u1ec7t Nam;Vietnamese Cultural Center",
+    "lat": 47.537836930000005,
+    "lon": -122.36259120999998
+  },
+  "772562341": {
+    "name": "Denny Substation Dog Park",
+    "lat": 47.61917111538462,
+    "lon": -122.33269686923076
+  },
+  "797212812": {
+    "name": "Washington International School Preschool Park",
+    "lat": 47.73395235714286,
+    "lon": -122.34381927142856
+  },
+  "799503882": {
+    "name": "Woodbine Park",
+    "lat": 47.706949458333334,
+    "lon": -122.37908852499999
+  },
+  "817348148": {
+    "name": "Black Lives Matter",
+    "lat": 47.615274,
+    "lon": -122.31896858
+  },
+  "824420457": {
+    "name": "Bartonwood Natural Area",
+    "lat": 47.702387171428576,
+    "lon": -122.33232741428571
+  },
+  "834352188": {
+    "name": "Park Drive South Street End",
+    "lat": 47.52392618333334,
+    "lon": -122.26148703333335
+  },
+  "859841612": {
+    "name": "Captain's Park",
+    "lat": 47.52329577857143,
+    "lon": -122.39284585714283
+  },
+  "861130584": {
+    "name": "48th and Charlestown Landbanked Site",
+    "lat": 47.56998121666667,
+    "lon": -122.39390081666669
+  },
+  "865156981": {
+    "name": "St. Luke's Urban Garden",
+    "lat": 47.67071968,
+    "lon": -122.38332906000001
+  },
+  "887310372": {
+    "name": "Bridge Gear Park",
+    "lat": 47.57190684615384,
+    "lon": -122.3495436
+  },
+  "905247337": {
+    "name": "Rock Garden",
+    "lat": 47.68444967692307,
+    "lon": -122.30028615384616
+  },
+  "909788856": {
+    "name": "Dog Yard Bar",
+    "lat": 47.66393078,
+    "lon": -122.37811755
+  },
+  "913587104": {
+    "name": "Wedgwood Pocket Park",
+    "lat": 47.69111746,
+    "lon": -122.29098702000002
+  },
+  "914279548": {
+    "name": "Wedgwood Demonstration Garden",
+    "lat": 47.68829212000001,
+    "lon": -122.29994452000001
+  },
+  "918509653": {
+    "name": "Black Lives Memorial Garden",
+    "lat": 47.61659403703704,
+    "lon": -122.31906587407406
+  },
+  "935340655": {
+    "name": "K-Cut",
+    "lat": 47.65100965,
+    "lon": -122.31198604999999
+  },
+  "937344336": {
+    "name": "Taylor Creek Headwaters",
+    "lat": 47.50294487777778,
+    "lon": -122.25619304444444
+  },
+  "965456828": {
+    "name": "Sundial & Viewing Plaza",
+    "lat": 47.54033584615385,
+    "lon": -122.377364
+  },
+  "977079740": {
+    "name": "Play Attention",
+    "lat": 47.71251166,
+    "lon": -122.37881159999999
+  },
+  "988343287": {
+    "name": "Green Lake Dragonfly Mural",
+    "lat": 47.67234815714284,
+    "lon": -122.32447378571429
+  },
+  "988355787": {
+    "name": "Wallybug",
+    "lat": 47.66431164444444,
+    "lon": -122.3351682
+  },
+  "172172": {
+    "name": "Ravenna Boulevard",
+    "lat": 47.67261926042968,
+    "lon": -122.31564756912405
+  },
+  "241318": {
+    "name": "Banner Way Triangles",
+    "lat": 47.68521969444444,
+    "lon": -122.32278976111111
+  },
+  "241864": {
+    "name": "Washington Park Arboretum",
+    "lat": 47.64288698051419,
+    "lon": -122.29148658445288
+  },
+  "295534": {
+    "name": "Madison Park",
+    "lat": 47.6356161125,
+    "lon": -122.27724350874999
+  },
+  "453685": {
+    "name": "Smith Cove Park",
+    "lat": 47.632382082585686,
+    "lon": -122.38688607333218
+  },
+  "454191": {
+    "name": "Matthews Beach Park",
+    "lat": 47.69579416190475,
+    "lon": -122.27420818452381
+  },
+  "537268": {
+    "name": "Denny Blaine Park",
+    "lat": 47.6201897525,
+    "lon": -122.28038614750001
+  },
+  "537269": {
+    "name": "Madrona Park",
+    "lat": 47.61002392580176,
+    "lon": -122.28312799295372
+  },
+  "537286": {
+    "name": "Colman Park",
+    "lat": 47.58579298138298,
+    "lon": -122.28764462867908
+  },
+  "537288": {
+    "name": "Mount Baker Park",
+    "lat": 47.58075495265873,
+    "lon": -122.28816244242061
+  },
+  "537303": {
+    "name": "Maple Wood Playfield",
+    "lat": 47.559435278125,
+    "lon": -122.31895488333333
+  },
+  "537386": {
+    "name": "Jefferson Park",
+    "lat": 47.567267091326535,
+    "lon": -122.30979751360542
+  },
+  "537393": {
+    "name": "University Playground",
+    "lat": 47.664568473809524,
+    "lon": -122.31970802142857
+  },
+  "537429": {
+    "name": "Mount Baker Boulevard",
+    "lat": 47.576428381662744,
+    "lon": -122.29281204044939
+  },
+  "540732": {
+    "name": "Medicinal Herb Garden",
+    "lat": 47.65228424570513,
+    "lon": -122.30810246557692
+  },
+  "544254": {
+    "name": "Meadowbrook Playfield",
+    "lat": 47.7062171875,
+    "lon": -122.29391192916667
+  },
+  "629980": {
+    "name": "Lawton Park",
+    "lat": 47.655753419946805,
+    "lon": -122.39145065984044
+  },
+  "808878": {
+    "name": "Longfellow Creek Green Space",
+    "lat": 47.53255645393892,
+    "lon": -122.3624149217909
+  },
+  "812603": {
+    "name": "Piers 62/63",
+    "lat": 47.60862751875,
+    "lon": -122.34468845138889
+  },
+  "812874": {
+    "name": "Magnolia Park",
+    "lat": 47.63362602559524,
+    "lon": -122.39712965586735
+  },
+  "897752": {
+    "name": "Maple School Ravine",
+    "lat": 47.54958821538461,
+    "lon": -122.30799946967949
+  },
+  "907023": {
+    "name": "Lake Union Park",
+    "lat": 47.62707503085392,
+    "lon": -122.33822608331842
+  },
+  "933974": {
+    "name": "Plymouth Pillars Park",
+    "lat": 47.61400768142857,
+    "lon": -122.32927435285714
+  },
+  "941008": {
+    "name": "Roxhill Park",
+    "lat": 47.51892424916667,
+    "lon": -122.36924856583333
+  },
+  "960410": {
+    "name": "Waterway 9",
+    "lat": 47.63388025999999,
+    "lon": -122.3270914038889
+  },
+  "960412": {
+    "name": "Waterway 6 Park",
+    "lat": 47.62784300384615,
+    "lon": -122.33266256538462
+  },
+  "960414": {
+    "name": "Yale Avenue North Street End",
+    "lat": 47.629471537499995,
+    "lon": -122.33146937500001
+  },
+  "971479": {
+    "name": "Ferdinand Street Boat Launch",
+    "lat": 47.557598950420164,
+    "lon": -122.26237627815124
+  },
+  "971480": {
+    "name": "Seward Park",
+    "lat": 47.55327025133128,
+    "lon": -122.25492788261651
+  },
+  "1047789": {
+    "name": "Gas Works Park",
+    "lat": 47.64625824459967,
+    "lon": -122.3352433333987
+  },
+  "1050275": {
+    "name": "Stan Sayres Memorial Park",
+    "lat": 47.570647543402785,
+    "lon": -122.27776377500001
+  },
+  "1070497": {
+    "name": "Magnuson Park Off-Leash Area",
+    "lat": 47.68399167683937,
+    "lon": -122.25217268447702
+  },
+  "1240950": {
+    "name": "Herring's House Park",
+    "lat": 47.561918735625454,
+    "lon": -122.35028838148186
+  },
+  "1306224": {
+    "name": "Be'er Sheva Park",
+    "lat": 47.523508051717165,
+    "lon": -122.26318625696969
+  },
+  "1671940": {
+    "name": "Memorial Stadium",
+    "lat": 47.62280632407408,
+    "lon": -122.35005480370371
+  },
+  "2132448": {
+    "name": "Genesee Park and Playfield",
+    "lat": 47.56507289134615,
+    "lon": -122.27913583669871
+  },
+  "2223275": {
+    "name": "Puget Creek Greenspace",
+    "lat": 47.55044199453537,
+    "lon": -122.35831473313328
+  },
+  "2223276": {
+    "name": "West Duwamish Greenbelt",
+    "lat": 47.54984707311364,
+    "lon": -122.3482883711948
+  },
+  "2518718": {
+    "name": "Leschi Park",
+    "lat": 47.60097237159091,
+    "lon": -122.28682596681816
+  },
+  "3112036": {
+    "name": "East Duwamish Greenbelt",
+    "lat": 47.57812166875074,
+    "lon": -122.31741121398241
+  },
+  "3148300": {
+    "name": "Centennial Park",
+    "lat": 47.62471632207795,
+    "lon": -122.3703058329145
+  },
+  "3148301": {
+    "name": "Myrtle Edwards Park",
+    "lat": 47.61847522125,
+    "lon": -122.36005003375001
+  },
+  "3151478": {
+    "name": "Parkmont Place",
+    "lat": 47.640096939555555,
+    "lon": -122.41015653466665
+  },
+  "3185569": {
+    "name": "Frye Art Museum",
+    "lat": 47.607206365137394,
+    "lon": -122.32425630905614
+  },
+  "3195464": {
+    "name": "Alki Beach Park",
+    "lat": 47.58794123539839,
+    "lon": -122.39670491935307
+  },
+  "3209548": {
+    "name": "Jack Perry Memorial Park",
+    "lat": 47.588043712037035,
+    "lon": -122.341531875
+  },
+  "3795260": {
+    "name": "Kellogg Island",
+    "lat": 47.55788183678977,
+    "lon": -122.34738962940341
+  },
+  "3947521": {
+    "name": "17th Avenue Northeast Center Strip",
+    "lat": 47.66644215440545,
+    "lon": -122.3095716408187
+  },
+  "4758992": {
+    "name": "Judkins Park and Playfield",
+    "lat": 47.592723037967914,
+    "lon": -122.30405516341355
+  },
+  "4759129": {
+    "name": "Sam Smith Park",
+    "lat": 47.59010224761904,
+    "lon": -122.29795345481367
+  },
+  "4777933": {
+    "name": "West Magnolia Playfield",
+    "lat": 47.64352086071429,
+    "lon": -122.39933202857144
+  },
+  "4874562": {
+    "name": "Discovery Park",
+    "lat": 47.66015594589449,
+    "lon": -122.41853336034929
+  },
+  "5141519": {
+    "name": "Lake Washington Boulevard",
+    "lat": 47.568239102541455,
+    "lon": -122.27470575288085
+  },
+  "5141528": {
+    "name": "Magnolia Boulevard",
+    "lat": 47.6393219446913,
+    "lon": -122.40678897891878
+  },
+  "5268441": {
+    "name": "Madison Valley Stormwater Project",
+    "lat": 47.622645594999995,
+    "lon": -122.29365976
+  },
+  "5268487": {
+    "name": "Union Bay Natural Area",
+    "lat": 47.654784651351555,
+    "lon": -122.29361722762549
+  },
+  "5309030": {
+    "name": "City Hall Park",
+    "lat": 47.602004400000006,
+    "lon": -122.32973357222224
+  },
+  "5342294": {
+    "name": "Queen Anne Boulevard",
+    "lat": 47.636334586349214,
+    "lon": -122.35857523757936
+  },
+  "5365980": {
+    "name": "Beaver Pond Natural Area",
+    "lat": 47.70502990433333,
+    "lon": -122.32060463977777
+  },
+  "5371558": {
+    "name": "Magnolia Park",
+    "lat": 47.63397631339286,
+    "lon": -122.39773531505102
+  },
+  "5399990": {
+    "name": "McGilvra Boulevard",
+    "lat": 47.62736768406593,
+    "lon": -122.28192673699633
+  },
+  "5400162": {
+    "name": "Montlake Boulevard",
+    "lat": 47.64604968,
+    "lon": -122.30462192
+  },
+  "5400618": {
+    "name": "California Place",
+    "lat": 47.58541480666666,
+    "lon": -122.38715324833333
+  },
+  "5415513": {
+    "name": "Harvard-Miller/Roanoke Annex",
+    "lat": 47.64129810227273,
+    "lon": -122.321626275
+  },
+  "5636648": {
+    "name": "Husky Stadium",
+    "lat": 47.650178748888884,
+    "lon": -122.30259686888886
+  },
+  "5729177": {
+    "name": "T-Mobile Park",
+    "lat": 47.59130680799999,
+    "lon": -122.33260288600005
+  },
+  "5838734": {
+    "name": "Lumen Field",
+    "lat": 47.59565399942308,
+    "lon": -122.3313351248077
+  },
+  "6023827": {
+    "name": "Myers Parcels",
+    "lat": 47.515827614583344,
+    "lon": -122.33272219375
+  },
+  "6057934": {
+    "name": "Interlaken Park",
+    "lat": 47.63616632367163,
+    "lon": -122.3072204111686
+  },
+  "6135577": {
+    "name": "Campus Parkway",
+    "lat": 47.65610171695906,
+    "lon": -122.31327195662769
+  },
+  "6458153": {
+    "name": "Chinook Passage Natural Area",
+    "lat": 47.697273742261906,
+    "lon": -122.27834766130951
+  },
+  "6580044": {
+    "name": "Green Lake Park",
+    "lat": 47.67848579576287,
+    "lon": -122.33779027431898
+  },
+  "6618625": {
+    "name": "Warren G. Magnuson Park",
+    "lat": 47.68304149369812,
+    "lon": -122.25512034128057
+  },
+  "6668676": {
+    "name": "Thornton Creek Natural Area",
+    "lat": 47.697930839583336,
+    "lon": -122.30009811999999
+  },
+  "7147613": {
+    "name": "Husky Softball Stadium",
+    "lat": 47.65034252687487,
+    "lon": -122.29975693858123
+  },
+  "7152576": {
+    "name": "Freeway Park",
+    "lat": 47.60981521836369,
+    "lon": -122.33108536953509
+  },
+  "7174146": {
+    "name": "Waterway 19",
+    "lat": 47.64693206111111,
+    "lon": -122.33309817222221
+  },
+  "7303423": {
+    "name": "Jack Block Park",
+    "lat": 47.58382927715993,
+    "lon": -122.36962225544232
+  },
+  "7406606": {
+    "name": "Olympic Sculpture Park",
+    "lat": 47.61632542536964,
+    "lon": -122.35576624694772
+  },
+  "7805102": {
+    "name": "International Peace Grove",
+    "lat": 47.656131922932325,
+    "lon": -122.31561304774435
+  },
+  "11558527": {
+    "name": "Hat 'n' Boots",
+    "lat": 47.54511918803921,
+    "lon": -122.3217234829412
+  },
+  "11758492": {
+    "name": "Gemenskap Park",
+    "lat": 47.67233503329493,
+    "lon": -122.37357827989632
+  },
+  "12280928": {
+    "name": "Myrtle Reservoir Park",
+    "lat": 47.54034223653846,
+    "lon": -122.37783752615383
+  },
+  "12600639": {
+    "name": "Guests of the Great River",
+    "lat": 47.66012846363637,
+    "lon": -122.3109212909091
+  },
+  "12733905": {
+    "name": "Ravenna Park",
+    "lat": 47.67110729224806,
+    "lon": -122.3072978738372
+  },
+  "12888106": {
+    "name": "Love & Loss",
+    "lat": 47.61643189363212,
+    "lon": -122.35708098683368
+  },
+  "13153167": {
+    "name": "North Beach Park & Natural Area",
+    "lat": 47.695602070833345,
+    "lon": -122.39066934236111
+  },
+  "13155378": {
+    "name": "North Beach Ravine",
+    "lat": 47.69589433537036,
+    "lon": -122.39492711092593
+  }
+}
