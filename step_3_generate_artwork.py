@@ -101,4 +101,4 @@ if __name__ == "__main__":
 
         fig, ax = subplot_for_map()
         plot_voronoi_polys(ax, polys, color=colors)
-        plt.savefig(f"output/{city}.svg")
+        plt.savefig(f"output/{city}.svg", transparent=True)
