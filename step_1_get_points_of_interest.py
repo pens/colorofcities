@@ -6,6 +6,7 @@
 
 import json
 import os
+
 import overpy
 from numpy import ndarray
 
@@ -40,21 +41,23 @@ def to_coord(element: overpy.Element) -> ndarray:
     elif type(element) is overpy.Node:
         return node_to_coord(element)
     else:
-        raise TypeError('Unhandled element type')
+        raise TypeError("Unhandled element type")
 
 
-if __name__ == '__main__':
-    os.makedirs('points_of_interest', exist_ok=True)
+if __name__ == "__main__":
+    os.makedirs("points_of_interest", exist_ok=True)
     cities = {}
-    with open('cities.json') as f:
+    with open("cities.json") as f:
         cities = json.load(f)
 
     api = overpy.Overpass(max_retry_count=5)
 
     for city, values in cities.items():
+        print(f'Querying {city}')
+
         # This queries for a number of locations that could be considered reflective
         # of the color of a city.
-        query_points_of_interest = '''
+        query_points_of_interest = """
             [out:json];
             (
                 node[tourism~"aquarium|artwork|attraction|gallery|museum|viewpoint"](area:{0});
@@ -67,21 +70,21 @@ if __name__ == '__main__':
             );
             (._;>;);
             out;
-        '''
+        """
 
-        result = api.query(query_points_of_interest.format(values['area']))
+        result = api.query(query_points_of_interest.format(values["area"]))
 
         points_of_interest = {}
 
         for elements in [result.nodes, result.ways, result.relations]:
             for element in elements:
-                if 'name' in element.tags:
+                if "name" in element.tags:
                     coord = to_coord(element)
                     points_of_interest[element.id] = {
-                        'name': element.tags['name'],
-                        'lat': coord[0],
-                        'lon': coord[1]
+                        "name": element.tags["name"],
+                        "lat": coord[0],
+                        "lon": coord[1],
                     }
 
-        with open(f'points_of_interest/{city}.json', 'w') as f:
+        with open(f"points_of_interest/{city}.json", "w") as f:
             json.dump(points_of_interest, f)

@@ -1,4 +1,8 @@
 {
+  "san_francisco": {
+      "area": 3600111968,
+      "name": "San Francisco, CA"
+  },
   "portland": {
       "area": 3600186579,
       "name": "Portland, OR"
@@ -6,9 +10,5 @@
   "seattle": {
       "area": 3600237385,
       "name": "Seattle, WA"
-  },
-  "san_francisco": {
-      "area": 3600111968,
-      "name": "San Francisco, CA"
   }
 }
