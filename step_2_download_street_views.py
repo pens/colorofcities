@@ -80,6 +80,7 @@ if __name__ == "__main__":
             # Get all 4 sides of cube map, skipping top / bottom
             for heading in [0, 90, 180, 270]:
                 # 640x640 is max size
+                # TODO if doing this again, I'd add "source": "outdoor" to filter indoor
                 result = send_request(
                     "https://maps.googleapis.com/maps/api/streetview",
                     {"pano": id, "size": "640x640", "heading": heading},
