@@ -1,4 +1,4 @@
-# Copyright 2021 Seth Pendergrass. See LICENSE.
+# Copyright 2021-2 Seth Pendergrass. See LICENSE.
 #
 # Using metadata & panoramas pulled down from Google Street View in step 2,
 # this generates a voronoi diagram for each city. One point & panorama
@@ -10,19 +10,17 @@
 
 import json
 import os
+import textwrap
 
 import geopandas as gpd
+import geovoronoi as gv
 import imageio
-from matplotlib.colors import to_hex
-import matplotlib.pyplot as plt
+import matplotlib as mpl
 import numpy as np
 import osmnx as ox
-from geovoronoi import coords_to_points, points_to_coords, voronoi_regions_from_coords
-from geovoronoi.plotting import plot_voronoi_polys, subplot_for_map
-from pyproj import Transformer
-from shapely.affinity import scale, affine_transform
+import pyproj as pp
+import shapely as sl
 from shapely.geometry import MultiPolygon, Polygon
-from shapely.ops import unary_union
 from shapely.strtree import STRtree
 
 
@@ -41,7 +39,7 @@ def generate_city_shape(values: dict, land: STRtree) -> MultiPolygon:
 
     # Intersect city boundaries with landmasses, to remove oceans
     land_intersecting = land.query(city_bounds)
-    land_unioned = unary_union(land_intersecting)
+    land_unioned = sl.ops.unary_union(land_intersecting)
     city_excluding_ocean = land_unioned.intersection(city_bounds)
 
     # Download lakes, rivers, etc from OSM
@@ -56,7 +54,8 @@ def generate_city_shape(values: dict, land: STRtree) -> MultiPolygon:
     city_land = city_excluding_ocean.difference(water_unioned)
 
     # Voronoi creation fails with non-polygons
-    land_geometry = MultiPolygon([geom for geom in city_land.geoms if type(geom) is Polygon])
+    land_geometry = MultiPolygon(
+        [geom for geom in city_land.geoms if type(geom) is Polygon])
     return land_geometry
 
 
@@ -73,9 +72,8 @@ def convert_images_to_color(city: str, pano_id: str) -> np.ndarray:
     return color
 
 
-def process_points(
-    city: str, land_geometry: MultiPolygon
-) -> tuple[np.ndarray, np.ndarray]:
+def process_points(city: str, land_geometry: MultiPolygon
+                   ) -> tuple[np.ndarray, np.ndarray]:
 
     with open(f"metadata/{city}.json") as f:
         metadata = json.load(f)
@@ -88,30 +86,35 @@ def process_points(
         colors[i] = convert_images_to_color(city, pano_id)
 
     # Convert from WGS 84 to Mercator Projection
-    trans = Transformer.from_crs(4326, 3857)
+    trans = pp.Transformer.from_crs(4326, 3857)
     coords_3857 = np.asarray(
         trans.transform(coords[:, 0], coords[:, 1], errcheck=True)
     ).T
 
     # Generating polys can fail if points lay outside bounds
-    points = [p for p in coords_to_points(coords_3857) if p.within(land_geometry)]
-    coords_bounded = points_to_coords(points)
+    points = [p for p in gv.coords_to_points(
+        coords_3857) if p.within(land_geometry)]
+    coords_bounded = gv.points_to_coords(points)
 
     return coords_bounded, colors
 
 
-def create_map(land_geometry: MultiPolygon, coords: np.ndarray, colors: np.ndarray):
-    polys, pts = voronoi_regions_from_coords(coords, land_geometry)
+def create_map(land_geometry: MultiPolygon, coords: np.ndarray,
+               colors: np.ndarray):
+    polys, pts = gv.voronoi_regions_from_coords(coords, land_geometry)
 
-    bounds = np.ndarray((len(polys), 4))
-    for i in polys:
-        bounds[i] = polys[i].bounds
-    x = min(bounds[:, 0])
-    y = min(bounds[:, 1])
-    w = max(bounds[:, 2]) - x
-    h = max(bounds[:, 3]) - y
+    x = float('inf')
+    y = float('inf')
+    w = -float('inf')
+    h = -float('inf')
+    for p in polys.values():
+        x = min(x, p.bounds[0])
+        y = min(y, p.bounds[1])
+        w = max(w, p.bounds[2])
+        h = max(h, p.bounds[3])
+    w -= x
+    h -= y
 
-    c = (x + w / 2, y + h / 2, 0)
     x_s = 1000 / w
     y_s = 1000 / w
     x_t = -x * x_s
@@ -123,14 +126,21 @@ def create_map(land_geometry: MultiPolygon, coords: np.ndarray, colors: np.ndarr
 
     polys_adjusted = []
     for i in polys:
-        polys_adjusted.append(affine_transform(polys[i], trans))
+        polys_adjusted.append(sl.affinity.affine_transform(polys[i], trans))
 
     with open(f"output/{city}.svg", "w") as f:
-        f.write(f"""<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" viewBox="0 0 {w_scaled} {h_scaled}" xmlns="http://www.w3.org/2000/svg">""")
+        f.write(textwrap.dedent(
+            f"""\
+            <?xml version="1.0" encoding="utf-8"?>
+            <svg viewBox="0 0 {w_scaled} {h_scaled}" xmlns="http://www.w3.org/2000/svg">
+            """))
         for i in polys:
-            f.write(f"{polys_adjusted[i].svg(scale_factor=.5, fill_color=to_hex(np.mean(colors[pts[i]], axis=0)))}\n")
+            # HACK: Need shapely 1.8+ for opacity arg, but geovoronoi needs
+            # shapely < 1.8. Instead, replace opacity="0.6" with "1.0"
+            svg = polys_adjusted[i].svg(
+                scale_factor=.5,
+                fill_color=mpl.colors.to_hex(np.mean(colors[pts[i]], axis=0)))
+            f.write(f"{svg}\n".replace('opacity="0.6"', 'opacity="1.0"'))
         f.write("</svg>")
 
 

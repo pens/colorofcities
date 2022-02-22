@@ -1,4 +1,4 @@
-# Copyright 2021 Seth Pendergrass. See LICENSE.
+# Copyright 2021-2 Seth Pendergrass. See LICENSE.
 #
 # This script pulls points of interest from OpenStreetMap via the Overpass API.
 # The returned data is simplified to name, latitude and longitude and written
@@ -7,15 +7,16 @@
 import json
 import os
 
+import numpy as np
 import overpy
-from numpy import ndarray
+import textwrap
 
 
-def node_to_coord(node: overpy.Node) -> ndarray:
+def node_to_coord(node: overpy.Node) -> np.ndarray:
     return [float(node.lat), float(node.lon)]
 
 
-def way_to_coord(way: overpy.Way) -> ndarray:
+def way_to_coord(way: overpy.Way) -> np.ndarray:
     coord = np.zeros(2)
 
     for node in way.nodes:
@@ -24,7 +25,7 @@ def way_to_coord(way: overpy.Way) -> ndarray:
     return coord / len(way.nodes)
 
 
-def relation_to_coord(relation: overpy.Relation) -> ndarray:
+def relation_to_coord(relation: overpy.Relation) -> np.ndarray:
     coord = np.zeros(2)
 
     for member in relation.members:
@@ -33,7 +34,7 @@ def relation_to_coord(relation: overpy.Relation) -> ndarray:
     return coord / len(relation.members)
 
 
-def to_coord(element: overpy.Element) -> ndarray:
+def to_coord(element: overpy.Element) -> np.ndarray:
     if type(element) is overpy.Relation:
         return relation_to_coord(element)
     elif type(element) is overpy.Way:
@@ -55,9 +56,10 @@ if __name__ == "__main__":
     for city, values in cities.items():
         print(f'Querying {city}')
 
-        # This queries for a number of locations that could be considered reflective
-        # of the color of a city.
-        query_points_of_interest = """
+        # This queries for a number of locations that could be considered
+        # reflective of the color of a city.
+        query_points_of_interest = textwrap.dedent(
+            """\
             [out:json];
             (
                 node[tourism~"aquarium|artwork|attraction|gallery|museum|viewpoint"](area:{0});
@@ -69,13 +71,11 @@ if __name__ == "__main__":
                 relation[leisure~"garden|nature_reserve|park|stadium"](area:{0});
             );
             (._;>;);
-            out;
-        """
-
-        result = api.query(query_points_of_interest.format(values["area"]))
+            out;"""
+        ).format(values["area"])
+        result = api.query(query_points_of_interest)
 
         points_of_interest = {}
-
         for elements in [result.nodes, result.ways, result.relations]:
             for element in elements:
                 if "name" in element.tags:

@@ -1,7 +1,8 @@
-# Copyright 2021 Seth Pendergrass. See LICENSE.
+# Copyright 2021-2 Seth Pendergrass. See LICENSE.
 #
 # Given the processed output of step_1_get_points_of_interest.py, pull down the
 # Street View images at each location and save them.
+#
 # WARNING: This requires a Google Cloud account and will incur costs when
 # downloading. You'll need to set your API key and secret below.
 
@@ -50,7 +51,7 @@ if __name__ == "__main__":
         # Collect metadata (free)
         panos = {}
         for id, values in points.items():
-            # This portion is free
+            # Returned lat/lon is of street view, may not match input
             metadata = send_request(
                 "https://maps.googleapis.com/maps/api/streetview/metadata",
                 {"location": f'{values["lat"]},{values["lon"]}'},
@@ -62,13 +63,15 @@ if __name__ == "__main__":
 
             print(f'Found {values["name"]}: {metadata["pano_id"]}')
 
+            # Dedups street views via overwrite
             panos[metadata["pano_id"]] = {
                 "osm_id": id,
                 "name": values["name"],
                 "lat": metadata["location"]["lat"],
                 "lon": metadata["location"]["lng"],
             }
-        os.makedirs(f"metadata", exist_ok=True)
+
+        os.makedirs("metadata", exist_ok=True)
         with open(f"metadata/{city}.json", "w") as f:
             json.dump(panos, f)
 
@@ -80,7 +83,8 @@ if __name__ == "__main__":
             # Get all 4 sides of cube map, skipping top / bottom
             for heading in [0, 90, 180, 270]:
                 # 640x640 is max size
-                # TODO if doing this again, I'd add "source": "outdoor" to filter indoor
+                # TODO if doing this again, I'd add "source": "outdoor" to
+                # filter out indoor shots
                 result = send_request(
                     "https://maps.googleapis.com/maps/api/streetview",
                     {"pano": id, "size": "640x640", "heading": heading},
@@ -89,4 +93,5 @@ if __name__ == "__main__":
                 im = Image.open(BytesIO(result.content))
                 im.save(f"panos/{city}/{id}_{heading}.jpg")
 
+                # Rate limiting
                 time.sleep(1 / 50)
