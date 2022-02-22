@@ -6,7 +6,7 @@ This is an art project I built earlier in the quarantine, and only got around to
 The premise was that every city has a different color palette, and I wanted to take it from there to create representative art of Seattle, Portland and San Francisco to compare them.
 
 Be aware that I hacked this together to get the final output.
-The code is inconsistent, makes uniformed use of its imported packages, lacks optimization and was not tested beyond the cities shown here.
+The code is inconsistent, makes uninformed use of its imported packages, lacks optimization and was not tested beyond the cities shown here.
 
 ## Results
 

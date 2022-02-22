@@ -1,4 +1,11 @@
 #%%
+# Copyright 2021-2 Seth Pendergrass. See LICENSE.
+#
+# Below are the remnants of some experiments I ran in attempting to find a
+# more interesting way to color the voronoi regions that a pure average.
+# This became too time consuming, so I just called it. The below code is
+# absolute garbage, so buyer beware.
+
 import matplotlib as mpl
 import matplotlib.pyplot as plt
 import numpy as np

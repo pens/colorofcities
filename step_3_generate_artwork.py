@@ -115,29 +115,30 @@ def create_map(land_geometry: MultiPolygon, coords: np.ndarray,
     w -= x
     h -= y
 
-    x_s = 1000 / w
-    y_s = 1000 / w
-    x_t = -x * x_s
-    y_t = (y + h) * y_s
-    trans = [x_s, 0, 0, -y_s, x_t, y_t]
+    # Scale dimensions s.t. larger = 1000.
+    larger_dim = max(w, h)
+    scale = 1000 / larger_dim
 
-    h_scaled = h * y_s
-    w_scaled = w * x_s
+    # Latitudes increase from south to north, while SVG's y origin is in the
+    # top left corner. Therefore, we need to mirror (scale by -1) the y values.
+    # Post scaling, we shift x & y values to put top left at 0,0.
+    x_t = scale * -x
+    y_t = scale * (y + h)
+    trans = [scale, 0, 0, -scale, x_t, y_t]
 
-    polys_adjusted = []
-    for i in polys:
-        polys_adjusted.append(sl.affinity.affine_transform(polys[i], trans))
+    for i, p in polys.items():
+        polys[i] = sl.affinity.affine_transform(p, trans)
 
     with open(f"output/{city}.svg", "w") as f:
         f.write(textwrap.dedent(
             f"""\
             <?xml version="1.0" encoding="utf-8"?>
-            <svg viewBox="0 0 {w_scaled} {h_scaled}" xmlns="http://www.w3.org/2000/svg">
+            <svg viewBox="0 0 {w * scale} {h * scale}" xmlns="http://www.w3.org/2000/svg">
             """))
-        for i in polys:
+        for i, p in polys.items():
             # HACK: Need shapely 1.8+ for opacity arg, but geovoronoi needs
             # shapely < 1.8. Instead, replace opacity="0.6" with "1.0"
-            svg = polys_adjusted[i].svg(
+            svg = p.svg(
                 scale_factor=.5,
                 fill_color=mpl.colors.to_hex(np.mean(colors[pts[i]], axis=0)))
             f.write(f"{svg}\n".replace('opacity="0.6"', 'opacity="1.0"'))
