@@ -43,10 +43,9 @@ def generate_city_shape(values: dict, land: STRtree) -> MultiPolygon:
     city_excluding_ocean = land_unioned.intersection(city_bounds)
 
     # Download lakes, rivers, etc from OSM
-    # HACK tags were missing for Portage Bay (Seattle), so I used water
-    # This ends up included water I didn't want, like wastewater ponds
+    # HACK should probably have filtered out certain types of water via the
+    # water key (e.g. water=wastewater)
     water = ox.geometries_from_place(values["name"], {
-        "water": ["lake", "river"],
         "natural": ["coastline", "strait", "bay", "canal", "water"]
     })
     water_3857 = water.to_crs(epsg=3857)
